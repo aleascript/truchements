@@ -59,9 +59,9 @@ export type SiteTheme = {
 };
 
 export const site = {
-  title: 'Resonance Site',
-  tagline: 'A world begins with a question',
-  description: 'Enter a world shaped by every choice made at the table.',
+  title: 'Truchements',
+  tagline: 'Powers act through Agents.',
+  description: 'A standalone tabletop role-playing game about Powers, their Agents, and Humanity.',
   author: 'AleaScript',
   defaultLocale: 'en',
   locales: {
@@ -75,23 +75,26 @@ export const site = {
     },
   },
   repository: {
-    defaultFullName: 'aleascript/resonance-site-template',
+    defaultFullName: 'aleascript/truchements',
   },
   identity: {
-    logo: 'img/site/resonance_simple_200x200.png',
-    favicon: 'img/site/resonance_simple_200x200.png',
+    logo: null,
+    favicon: null,
   } satisfies SiteIdentity,
   license: {
     label: 'CC BY 4.0',
     href: 'https://creativecommons.org/licenses/by/4.0/',
     attribution: {
-      title: 'Resonance Site',
+      title: 'Truchements',
       author: 'AleaScript',
       href: null,
     },
   } satisfies ContentLicense,
   lineage: {
-    designedWith: null,
+    designedWith: {
+      label: 'Regard',
+      href: 'https://aleascript.github.io/regard/',
+    },
     poweredBy: null,
   } as SiteLineage,
   theme: {
