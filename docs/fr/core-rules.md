@@ -1,12 +1,10 @@
 ---
 id: core-rules
-title: Core Rules
+title: Règles
 description: Le socle de règles commun à toutes les déclinaisons de Truchements.
 ---
 
-# Core Rules
-
-## Truchements
+# Règles
 
 Dans **Truchements**, les personnages joueurs sont des **Agents** liés à des **Puissances** qui dépassent l'Humanité.
 
@@ -14,7 +12,7 @@ Une Puissance agit dans le monde par ses Agents. Un Agent l'est parce qu'il est 
 
 Les Déclinaisons donnent une forme concrète à ces éléments. Elles définissent les Puissances présentes, les Agents que l'on peut incarner, leur rapport à l'Humanité et les situations qui les mettent en mouvement.
 
-:::note Quelques Puissances possibles
+:::note[Quelques Puissances possibles]
 
 Dans **Choeurs & Légions**, une Puissance peut être un Archange ou un Prince-Démon. Dans **Anciens & Nouveaux Dieux**, ce peut être une divinité nordique ou un dieu oublié qui trouve une nouvelle place dans le monde contemporain. **Sang & Nuit** peut mettre en jeu des vampires, des lignées ou d'autres puissances nocturnes. **Signaux** peut faire intervenir des entités dont la nature même reste difficile à interpréter.
 
@@ -60,7 +58,7 @@ Une même raison ne compte qu'une fois. *Guerrier exceptionnel*, *entraîné dep
 
 Quand plus personne ne voit immédiatement autre chose qui compte sans répéter ce qui est déjà posé, on résout.
 
-:::note Exemple — Choeurs & Légions
+:::note[Exemple — Choeurs & Légions]
 
 Un Agent veut empêcher un groupe d'occultistes d'ouvrir un sceau.
 
@@ -171,7 +169,7 @@ Le **6** possède déjà un rôle dans les résolutions de l'Humanité et des Ag
 
 Certaines Déclinaisons pourront également lui associer un effet propre à une Puissance, à une famille de Puissances ou au lien entre une Puissance et ses Agents.
 
-:::note Exemple
+:::note[Exemple]
 
 Dans une Déclinaison, un 6 pourrait rendre visible quelque chose de la Puissance à travers son Agent : un signe, une présence, une transformation ou une conséquence particulière.
 
