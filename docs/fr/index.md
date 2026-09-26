@@ -1,29 +1,29 @@
 ---
 id: home
-title: Le Monde
+title: Truchements
 slug: /
-sidebar_position: 1
-hide_table_of_contents: true
-description: Chaque jeu commence par un monde qui attend de répondre.
+description: Un JdR autoportant sur les Puissances, leurs Agents et l'Humanité.
 ---
 
-# Un monde commence par une question
+# Truchements
 
-Au-delà de la dernière route familière s'étend un lieu qui n'a encore jamais
-existé. Ses habitants se souviennent d'anciennes promesses. Ses ruines gardent
-patiemment leurs secrets. Quelque chose a changé, et les personnages sont ceux
-qui ne peuvent simplement détourner le regard.
+:::caution Travail en cours
 
-Ce soir, la table donne une voix à ce monde.
+**Truchements est encore en conception active.** Sa structure, son vocabulaire et ses règles peuvent évoluer. Les pages actuellement publiées sont volontairement minimales.
 
-Vous direz ce que vos personnages remarquent, ce qu'ils désirent et ce qu'ils
-sont prêts à risquer. Leurs choix révéleront des chemins que personne n'aurait
-pu tracer à l'avance. En retour, le monde répondra — parfois par l'émerveillement,
-parfois par le danger, toujours par des conséquences.
+:::
 
-## La promesse du jeu
+**Incarnez les Agents de Puissances qui dépassent l'Humanité.**
 
-Venez avec des questions plutôt qu'avec des solutions. Écoutez les détails qui
-comptent. Laissez chaque personnage transformer ce qui devient possible.
+**Truchements** est un jeu de rôle autoportant construit autour d'un petit socle commun de règles et de plusieurs déclinaisons prêtes à jouer.
 
-Personne ne connaît encore toute l'histoire. C'est pour cela que nous jouons.
+Les Puissances peuvent prendre des formes très différentes. Leurs Agents sont les moyens par lesquels elles deviennent présentes et agissent dans le monde. La place de l'Humanité reste une question que chaque déclinaison peut explorer à sa manière.
+
+## Structure actuelle
+
+- [Core Rules](core-rules) — le socle commun du jeu.
+- [Settings](settings) — des mondes prêts à jouer construits sur ce socle.
+- [Tones](tones) — différentes manières de jouer une même déclinaison.
+- [Time](time) — d'une époque unique aux campagnes traversant les siècles ou les millénaires.
+
+Les premières déclinaisons prévues sont **Choirs & Legions**, **New Gods**, **Signals** et **Blood & Night**.
