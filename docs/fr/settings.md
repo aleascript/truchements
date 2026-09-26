@@ -10,9 +10,9 @@ Une **déclinaison** donne un monde au socle commun : des Puissances, des Agents
 
 Les premières déclinaisons prévues sont :
 
-- [Choirs & Legions](choirs-and-legions)
-- [New Gods](new-gods)
-- [Signals](signals)
-- [Blood & Night](blood-and-night)
+- [Choirs & Legions](./choirs-and-legions.md)
+- [New Gods](./new-gods.md)
+- [Signals](./signals.md)
+- [Blood & Night](./blood-and-night.md)
 
 Elles ne forment pas un canon commun. Chacune est une manière différente de jouer à **Truchements**.
