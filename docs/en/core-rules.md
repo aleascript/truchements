@@ -6,8 +6,30 @@ description: The common rules shared by every Truchements setting.
 
 # Core Rules
 
-This page will contain the rules shared by every **Truchements** setting.
+## Truchements
 
-The current core is intentionally small: what matters in a situation, the scale from Matter to Human to Agent to Power, the Prisms attached to that scale, and the emerging rule around manifestations on a 6.
+## Powers and Agents
 
-The detailed rules are still being developed.
+## Playing
+
+## Resolving a Situation
+
+### Bets: what matters here
+
+## The Scale of Realization
+
+### Neutral
+
+### Humanity
+
+### Agent
+
+### Power
+
+## Different Natures in the Same Resolution
+
+## Comparing Successes
+
+## Interpreting the Result
+
+## Sixes and Settings
