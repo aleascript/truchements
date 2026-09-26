@@ -252,6 +252,32 @@ These changes directly alter what becomes possible for them and what may become 
 
 The Agent's relationship with Humanity may be part of those transformations. An Agent may discover, learn, desire, or become something their Power did not determine. This possibility is one way a Truchement can become more than a simple expression of its source.
 
+## Extending a Power
+
+A Power is a relatively stable whole, but it is not necessarily immutable.
+
+An Agent may **extend their Power** when they make something that did not previously belong to its domain become a lasting part of it.
+
+It is not enough to rename something the Power already possessed. The extension must introduce a real difference: a practice, relationship, institution, technique, symbolic territory, way of acting, or any other novelty that the fiction now recognizes as belonging to the Power.
+
+If that novelty already belongs to another Power, it cannot simply be declared acquired. Because Powers do not confront one another directly, that competition becomes present in the world through their Agents, manifestations, and the situations that set them against one another.
+
+Humanity is often a privileged source of novelty. Humans invent uses, forms of relationship, techniques, institutions, stories, and ways of living that are not necessarily already integrated into a Power's domain. This gives Agents a structural reason to care about Humans without implying that Humans are secretly more powerful.
+
+When an extension becomes genuinely established in the fiction:
+
+- the **Power's** portrait changes: an Attribute may appear, be reformulated, or have its domain widened;
+- the **world** changes: the novelty may now become a place, means, or reason through which the Power manifests;
+- the **Agent** who made the extension possible is transformed in return by their relationship with the Power.
+
+That transformation of the Agent is their reward. Depending on the Setting and the fiction, it may take the form of a new gift, status, authority, possibility, mission, mark, or change in the Bond.
+
+> **What the Power could not make present before this act may now pass through the Agent who brought it.**
+
+This reward is not automatically exclusive or permanent. What matters is that the Agent's act changed both what the Power can become and what can now pass through their Bond.
+
+In a long campaign, an old extension may eventually seem as though it had always belonged to the Power. Present Attributes describe what the Power is now, not necessarily everything it has always been.
+
 ## Sixes and Settings
 
 The **6** already has a role in Humanity and Agent resolutions.
