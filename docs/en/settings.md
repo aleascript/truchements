@@ -30,6 +30,10 @@ For its Agents, it answers at least four questions:
 
 The last question does not imply that Humans are secretly “more powerful.” It simply requires the Setting to give Humanity something other than a lower rank on a power scale.
 
+A Setting also specifies what constitutes a Power's **domain**, what could genuinely extend it, how Agents can accomplish such an extension, and what their Power gives back when they bring it something it did not yet possess.
+
+These answers can become engines for situations: several Powers may covet the same novelty without ever confronting one another directly, leaving their Agents to decide in the world what will ultimately belong to whom.
+
 ## Combining Settings
 
 Settings can be played on their own or **combined within the same world**.
