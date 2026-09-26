@@ -8,7 +8,13 @@ description: The common rules shared by every Truchements setting.
 
 In **Truchements**, the player characters are **Agents** bound to **Powers** that transcend Humanity.
 
-A Power acts in the world through its Agents. An Agent is an Agent because they are bound to a Power. The exact nature of that bond depends on the Setting: service, lineage, incarnation, pact, creation, debt, or any other relationship established by the game world.
+> **A Power becomes present in the world through its Agents.**
+
+A Power does not need to be a person, command its Agents, or even possess an intelligible will. An Agent is an Agent because a Bond lets something of the Power pass through them. The exact nature of that Bond depends on the Setting: service, lineage, incarnation, pact, creation, debt, possession, inheritance, or any other relationship established by the game world.
+
+> **An Agent becomes present in the world through Humans.**
+
+This does not mean an Agent must possess a human host. Encountering Humanity is what allows an Agent to acquire a history, relationships, contradictions, and transformations that their Power does not entirely determine. In return, Humanity itself becomes other through contact with Agents.
 
 Settings give these elements a concrete form. They define the Powers that exist, the Agents that can be played, their relationship with Humanity, and the situations that set them in motion.
 
@@ -19,6 +25,18 @@ In **Choirs & Legions**, a Power might be an Archangel or a Demon Prince. In **A
 These examples belong to their Settings. They do not form a shared cosmology for all of Truchements.
 
 :::
+
+## A Power's Portrait
+
+A Power is not simply “something very powerful.”
+
+Its portrait contains a small number of distinct **Attributes** that state what it is: its reason for being, nature, agency, limits, relationships, or other fundamental properties useful to the Setting.
+
+These Attributes are not a list of bonuses. They describe a relatively stable whole. Changing an Attribute of a Power means that the Power itself has been transformed.
+
+Most of the time, a Power does not enter a resolution directly: its Agents, avatars, or other manifestations become present in the world instead. The Power's Attributes then help establish what passes through them.
+
+When a being already bound to a Power manages to confront it directly, the **Presence** rules below allow that whole to weigh on the resolution.
 
 ## Playing
 
@@ -151,13 +169,58 @@ A Power does not roll dice for its own Bets.
 
 A Power is therefore perfectly reliable at an equal number of Bets. An Agent may nevertheless, through rerolls and cascades, exceptionally produce more Successes than their initial number of Bets.
 
+## The Presence of a Power
+
+A Power is not normally a directly accessible protagonist in a scene. It becomes present through its Agents, avatars, signs, institutions, or other manifestations established by the Setting.
+
+### Powers Do Not Confront One Another Directly
+
+**Two Powers are never the two direct opponents of the same resolution.**
+
+When Powers enter into conflict, their opposition must become present in the world: through their Agents, avatars, Humans bound to them, places, phenomena, or other forms of mediation.
+
+If the characters believe they are directly confronting a Power outside their own Bond, they are actually confronting whatever makes it present at that place and moment. That manifestation receives the appropriate nature — most often Agent — and is resolved normally.
+
+### Reaching a Power
+
+A Human or Agent may confront a Power directly only when the fiction establishes that they are **already bound to it**.
+
+The Bond is precisely what makes the encounter possible: creation, lineage, pact, faith, possession, debt, participation, inheritance, or any other relationship recognized by the Setting.
+
+The confrontation need not be a physical fight. It may concern a refused command, emancipation, transformation, judgment, negotiation, rupture, or any other question capable of truly opposing the bound being to their Power.
+
+### The Power as a Whole
+
+An ordinary resolution keeps only the elements that genuinely matter to the Focus, at that Zoom, as Bets.
+
+**A direct confrontation with a Power is an exception.**
+
+The Focus does not cut the Power down to a few locally relevant capabilities. At the scale of this encounter, it presents itself as a relatively static whole.
+
+- The Power may commit **each distinct Attribute in its portrait** as a Bet in its favor, even when that Attribute would not seem directly relevant to the Focus in an ordinary resolution.
+- The Power's number of Bets can never be lower than the number of Bets held by the Human or Agent confronting it. If its Attributes provide fewer, its **Presence** raises its effective number of Bets to that floor.
+- This floor invents no new Attributes and adds no new elements to interpret after the resolution. It expresses the Power's hold within the very Bond that makes it reachable.
+- As always for a Power, each effective Bet directly produces **1 Success**.
+
+Bets drawn from Attributes may return to the fiction when the result is interpreted. Any additional amount created by the Presence floor is not a new fictional reason: it is the minimum measure of the Power within that confrontation.
+
+An Agent who commits 4 Bets therefore faces at least **4 Successes** from their Power, and more if the Power's committed Attributes exceed that number. To win, the Agent must produce more Successes than their initial number of Bets through rerolls and cascades.
+
+This is intentionally rare.
+
+Under the common rules, a Human can at best reach the number of Successes corresponding to their initial Bets. They may therefore resist, hold, or produce a status quo depending on the Focus, but they cannot directly exceed the Presence floor without a Setting-specific rule.
+
+A victory against a Power does not automatically mean destroying it. The **Focus** and **Zoom** still determine what was truly at stake: refusing an order, breaking a Bond, transforming an Attribute, or overthrowing a Power are very different questions.
+
 ## Different Natures in the Same Resolution
 
 Actors of different natures may act together.
 
 Each resolves their own Bets according to their nature, then the Successes favoring the same outcome are added together before the final comparison.
 
-A Human may therefore act with an Agent, several Agents may serve different Powers, and a Power may itself intervene in a resolution without requiring everyone to use the same rule.
+A Human may therefore act with an Agent, and several Agents may serve different Powers without requiring everyone to use the same rule.
+
+A Power intervenes directly only in the particular case described by the **Presence** rules. In other scenes, whatever acts for it is resolved according to the nature of its manifestation.
 
 ## Comparing Successes
 
@@ -186,6 +249,8 @@ An Agent's portrait changes with what happens to them.
 A lasting consequence may **add, modify, or remove a keyword**. The Agent may gain a new gift, lose an ability, transform a bond, carry an injury, change status, or become something else.
 
 These changes directly alter what becomes possible for them and what may become a Bet in future situations.
+
+The Agent's relationship with Humanity may be part of those transformations. An Agent may discover, learn, desire, or become something their Power did not determine. This possibility is one way a Truchement can become more than a simple expression of its source.
 
 ## Sixes and Settings
 
