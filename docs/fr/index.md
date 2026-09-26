@@ -19,7 +19,20 @@ description: Un JdR sur les Puissances, leurs Agents et l'Humanité.
 
 **Truchements** est un jeu de rôle construit autour d'un petit socle commun de règles et de plusieurs déclinaisons prêtes à jouer.
 
-Les Puissances peuvent prendre des formes très différentes. Leurs Agents sont les moyens par lesquels elles deviennent présentes et agissent dans le monde. La place de l'Humanité reste une question que chaque déclinaison peut explorer à sa manière.
+Le jeu part d'un postulat métaphysique simple :
+
+> **Une Puissance devient présente dans le monde à travers ses Agents.**  
+> **Un Agent devient présent dans le monde à travers les Humains.**  
+> **L'Humanité devient autre à travers les Agents.**
+
+Cette chaîne n'impose ni cosmologie, ni religion, ni morale uniques. Elle décrit une médiation : quelque chose qui dépasse l'Humanité ne devient pas simplement un personnage plus puissant dans le monde. Cela passe par des Agents, et ces Agents rencontrent à leur tour l'Humanité, qui peut les transformer autant qu'ils la transforment.
+
+Chaque Déclinaison donne une forme concrète à cette relation en répondant notamment à quatre questions :
+
+1. **Qu'est-ce qui te dépasse ?** — la Puissance.
+2. **Comment cela passe-t-il par toi ?** — le Lien.
+3. **Qu'est-ce que l'Humanité est devenue pour toi ?** — la Question humaine.
+4. **Qu'est-ce qu'un Humain peut faire, être ou produire que la Puissance ne peut pas ?**
 
 ## Structure actuelle
 
