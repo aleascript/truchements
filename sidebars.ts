@@ -10,7 +10,7 @@ const sidebars: SidebarsConfig = {
       link: {type: 'doc', id: 'settings'},
       items: [
         'choirs-and-legions',
-        'new-gods',
+        'ancient-and-new-gods',
         'signals',
         'blood-and-night',
       ],

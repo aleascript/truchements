@@ -2,7 +2,7 @@
 id: home
 title: Truchements
 slug: /
-description: A standalone TTRPG about Powers, their Agents, and Humanity.
+description: A TTRPG about Powers, their Agents, and Humanity.
 ---
 
 # Truchements
@@ -15,7 +15,7 @@ description: A standalone TTRPG about Powers, their Agents, and Humanity.
 
 **Play the Agents of Powers that transcend Humanity.**
 
-**Truchements** is a standalone tabletop role-playing game built around a small common ruleset and multiple ready-to-play settings.
+**Truchements** is a tabletop role-playing game built around a small common ruleset and multiple ready-to-play settings.
 
 Powers can take very different forms. Their Agents are the means through which they become present and act in the world. Humanity remains part of the question each setting chooses to explore.
 
@@ -26,4 +26,4 @@ Powers can take very different forms. Their Agents are the means through which t
 - [Tones](tones) — different ways to play the same setting.
 - [Time](time) — from a single period to campaigns spanning centuries or millennia.
 
-The first settings currently planned are **Choirs & Legions**, **New Gods**, **Signals**, and **Blood & Night**.
+The first settings currently planned are **Choirs & Legions**, **Ancient & New Gods**, **Signals**, and **Blood & Night**.

@@ -1,10 +1,10 @@
 ---
 id: tones
-title: Tones
+title: Tonalités
 description: Différents tons pour jouer une même déclinaison de Truchements.
 ---
 
-# Tones
+# Tonalités
 
 Une même déclinaison de **Truchements** peut produire des expériences différentes.
 

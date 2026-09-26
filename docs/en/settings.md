@@ -11,7 +11,7 @@ A **Setting** gives the common rules a world to inhabit: Powers, Agents, their r
 The first settings currently planned are:
 
 - [Choirs & Legions](./choirs-and-legions.md)
-- [New Gods](./new-gods.md)
+- [New Gods](./ancient-and-new-gods.md)
 - [Signals](./signals.md)
 - [Blood & Night](./blood-and-night.md)
 

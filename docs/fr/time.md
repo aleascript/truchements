@@ -1,10 +1,10 @@
 ---
 id: time
-title: Time
+title: Temporalités
 description: Choisir l'échelle historique d'une campagne de Truchements.
 ---
 
-# Time
+# Temporalités
 
 Une campagne de **Truchements** peut rester dans une seule époque ou traverser des années, des siècles ou des millénaires.
 

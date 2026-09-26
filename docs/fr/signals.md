@@ -1,10 +1,10 @@
 ---
 id: signals
-title: Signals
+title: Signaux
 description: Une déclinaison de science-fiction symbolique pour Truchements.
 ---
 
-# Signals
+# Signaux
 
 Une déclinaison de science-fiction où la transcendance peut apparaître sous forme de signaux, de motifs, de présences ou de réalités difficiles à interpréter.
 

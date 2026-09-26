@@ -1,10 +1,10 @@
 ---
 id: choirs-and-legions
-title: Choirs & Legions
+title: Choeurs & Légions
 description: Une déclinaison de Truchements consacrée aux Puissances célestes et infernales et à leurs Agents.
 ---
 
-# Choirs & Legions
+# Choeurs & Légions
 
 Une déclinaison centrée sur des Puissances célestes et infernales, leurs hiérarchies, leurs Agents et l'Humanité.
 
