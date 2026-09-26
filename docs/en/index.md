@@ -19,7 +19,20 @@ description: A TTRPG about Powers, their Agents, and Humanity.
 
 **Truchements** is a tabletop role-playing game built around a small common ruleset and multiple ready-to-play settings.
 
-Powers can take very different forms. Their Agents are the means through which they become present and act in the world. Humanity remains part of the question each setting chooses to explore.
+The game begins from a simple metaphysical premise:
+
+> **A Power becomes present in the world through its Agents.**  
+> **An Agent becomes present in the world through Humans.**  
+> **Humanity becomes other through Agents.**
+
+This chain imposes no single cosmology, religion, or morality. It describes mediation: something that transcends Humanity does not simply become a more powerful character in the world. It passes through Agents, and those Agents in turn encounter Humanity, which may transform them as much as they transform it.
+
+Each Setting gives this relationship a concrete form by answering, among other things, four questions:
+
+1. **What transcends you?** — the Power.
+2. **How does it pass through you?** — the Bond.
+3. **What has Humanity become to you?** — the Human Question.
+4. **What can a Human do, be, or produce that the Power cannot?**
 
 ## Current structure
 

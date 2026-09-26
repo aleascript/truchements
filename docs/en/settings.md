@@ -17,6 +17,23 @@ The first Settings currently planned are:
 
 They do not form a shared canon, nor do they necessarily describe separate universes.
 
+## Common Questions
+
+A Setting does not need to provide a universal theory of transcendence. It does, however, need to make the mediation between Power, Agent, and Humanity playable.
+
+For its Agents, it answers at least four questions:
+
+1. **What transcends you?** — what Power exists beyond your ordinary condition?
+2. **How does it pass through you?** — what form does the Bond take: service, lineage, incarnation, debt, creation, possession, inheritance, or something else?
+3. **What has Humanity become to you?** — a stake, mystery, resource, model, responsibility, adversary, destination, or something else?
+4. **What can a Human do, be, or produce that the Power cannot?**
+
+The last question does not imply that Humans are secretly “more powerful.” It simply requires the Setting to give Humanity something other than a lower rank on a power scale.
+
+A Setting also specifies what constitutes a Power's **domain**, what could genuinely extend it, how Agents can accomplish such an extension, and what their Power gives back when they bring it something it did not yet possess.
+
+These answers can become engines for situations: several Powers may covet the same novelty without ever confronting one another directly, leaving their Agents to decide in the world what will ultimately belong to whom.
+
 ## Combining Settings
 
 Settings can be played on their own or **combined within the same world**.
