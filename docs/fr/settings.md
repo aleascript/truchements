@@ -30,6 +30,10 @@ Pour ses Agents, elle répond notamment à quatre questions :
 
 La dernière question ne suppose pas que les Humains soient secrètement « plus puissants ». Elle oblige simplement la Déclinaison à donner à l'Humanité autre chose qu'un rang inférieur sur une échelle de puissance.
 
+Une Déclinaison précise également ce qui constitue le **domaine** d'une Puissance, ce qui pourrait réellement l'étendre, comment les Agents peuvent accomplir une telle extension et ce que leur Puissance leur rend lorsqu'ils lui apportent quelque chose qu'elle ne possédait pas encore.
+
+Ces réponses peuvent devenir des moteurs de situation : plusieurs Puissances peuvent convoiter la même nouveauté sans jamais s'affronter directement, laissant leurs Agents décider dans le monde de ce qui finira par appartenir à qui.
+
 ## Combiner les Déclinaisons
 
 Les Déclinaisons peuvent être jouées seules ou **combinées dans un même monde**.
