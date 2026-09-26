@@ -5,6 +5,8 @@ slug: /
 description: Un JdR sur les Puissances, leurs Agents et l'Humanité.
 ---
 
+![](/img/site/logo_light_theme_400.png)
+
 # Truchements
 
 :::caution[Travail en cours]

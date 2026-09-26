@@ -5,6 +5,8 @@ slug: /
 description: A TTRPG about Powers, their Agents, and Humanity.
 ---
 
+![](/img/site/logo_light_theme_400.png)
+
 # Truchements
 
 :::caution[Work in progress]

@@ -32,7 +32,7 @@ export default definePublications({
       size: 'A4',
       theme: 'publication/theme.css',
       cover: {
-        image: 'static/img/site/truchements_light_big.svg',
+        image: 'static/img/site/logo_light_theme_400.png',
         showTitle: true,
         showMetadata: true,
       },

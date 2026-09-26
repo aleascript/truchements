@@ -80,10 +80,10 @@ export const site = {
     defaultFullName: 'aleascript/truchements',
   },
   identity: {
-    logo: 'img/site/truchements_light_logo.svg',
-    logoDark: 'img/site/truchements_dark_logo.svg',
-    favicon: 'img/site/truchements_light_logo.svg',
-    faviconDark: 'img/site/truchements_dark_logo.svg',
+    logo: 'img/site/logo_light_theme_400.png',
+    logoDark: 'img/site/logo_dark_theme_400.png',
+    favicon: 'img/site/logo_light_theme_400.png',
+    faviconDark: 'img/site/logo_dark_theme_400.png',
   } satisfies SiteIdentity,
   license: {
     label: 'CC BY 4.0',
