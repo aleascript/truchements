@@ -5,7 +5,9 @@
 
 export type SiteIdentity = {
   logo: string | null;
+  logoDark: string | null;
   favicon: string | null;
+  faviconDark: string | null;
 };
 
 export type ProjectLink = {
@@ -78,8 +80,10 @@ export const site = {
     defaultFullName: 'aleascript/truchements',
   },
   identity: {
-    logo: null,
-    favicon: null,
+    logo: 'img/site/truchements_light_logo.svg',
+    logoDark: 'img/site/truchements_dark_logo.svg',
+    favicon: 'img/site/truchements_light_logo.svg',
+    faviconDark: 'img/site/truchements_dark_logo.svg',
   } satisfies SiteIdentity,
   license: {
     label: 'CC BY 4.0',
