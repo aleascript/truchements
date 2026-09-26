@@ -59,6 +59,14 @@ body {
   max-width: var(--site-content-width);
 }
 
+/*
+ * Keep the light logo in Markdown so publication builds use it unchanged.
+ * Only the website swaps the rendered image when Docusaurus is in dark mode.
+ */
+html[data-theme='dark'] .theme-doc-markdown img[src*='logo_light_theme_400.png'] {
+  content: url('/img/site/logo_dark_theme_400.png');
+}
+
 .theme-doc-markdown > h1:first-child {
   letter-spacing: -0.035em;
 }
