@@ -77,13 +77,32 @@ if (!locales.includes(contentLocale)) {
 const config: Config = {
   title: site.title,
   tagline: site.tagline,
-  favicon: site.identity.favicon ?? undefined,
   url,
   baseUrl,
   organizationName,
   projectName,
   trailingSlash: true,
   onBrokenLinks: 'throw',
+  headTags: [
+    {
+      tagName: 'link',
+      attributes: {
+        rel: 'icon',
+        type: 'image/svg+xml',
+        href: `${baseUrl}${site.identity.favicon}`,
+        media: '(prefers-color-scheme: light)',
+      },
+    },
+    {
+      tagName: 'link',
+      attributes: {
+        rel: 'icon',
+        type: 'image/svg+xml',
+        href: `${baseUrl}${site.identity.faviconDark}`,
+        media: '(prefers-color-scheme: dark)',
+      },
+    },
+  ],
   markdown: {
     hooks: {
       onBrokenMarkdownLinks: 'throw',
@@ -140,6 +159,7 @@ const config: Config = {
             logo: {
               alt: `${site.title} logo`,
               src: site.identity.logo,
+              srcDark: site.identity.logoDark ?? site.identity.logo,
             },
           }
         : {}),
