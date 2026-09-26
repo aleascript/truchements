@@ -17,6 +17,19 @@ Les premières Déclinaisons prévues sont :
 
 Elles ne forment pas un canon commun et ne décrivent pas nécessairement des univers séparés.
 
+## Questions communes
+
+Une Déclinaison n'a pas besoin de donner une théorie universelle de la transcendance. Elle doit en revanche rendre jouable la médiation entre Puissance, Agent et Humanité.
+
+Pour ses Agents, elle répond notamment à quatre questions :
+
+1. **Qu'est-ce qui te dépasse ?** — quelle Puissance existe au-delà de ta condition ordinaire ?
+2. **Comment cela passe-t-il par toi ?** — quelle forme prend le Lien : service, filiation, incarnation, dette, création, possession, héritage ou autre ?
+3. **Qu'est-ce que l'Humanité est devenue pour toi ?** — enjeu, mystère, ressource, modèle, responsabilité, adversaire, destination ou autre chose ?
+4. **Qu'est-ce qu'un Humain peut faire, être ou produire que la Puissance ne peut pas ?**
+
+La dernière question ne suppose pas que les Humains soient secrètement « plus puissants ». Elle oblige simplement la Déclinaison à donner à l'Humanité autre chose qu'un rang inférieur sur une échelle de puissance.
+
 ## Combiner les Déclinaisons
 
 Les Déclinaisons peuvent être jouées seules ou **combinées dans un même monde**.
