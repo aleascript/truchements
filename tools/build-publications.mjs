@@ -8,6 +8,7 @@ import config from '../publications.config.mjs';
 const projectRoot = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const workRoot = path.join(projectRoot, '.publication-workspace');
 const outputRoot = path.join(projectRoot, 'dist', 'publications');
+const publicationDocumentStartId = 'publication-document-start';
 
 const standardAdmonitions = ['note', 'tip', 'info', 'warning', 'danger', 'caution'];
 const defaultTitles = {
@@ -181,6 +182,74 @@ function decodeFrontmatterScalar(value) {
     return trimmed.slice(1, -1).replaceAll("''", "'");
   }
   return trimmed;
+}
+
+function readDocumentTitle(markdown) {
+  const frontmatter = markdown.match(/^---\r?\n([\s\S]*?)\r?\n---(?:\r?\n|$)/);
+  if (!frontmatter) {
+    return null;
+  }
+
+  const titleLine = frontmatter[1]
+    .split(/\r?\n/)
+    .find((line) => /^title\s*:/.test(line));
+  if (!titleLine) {
+    return null;
+  }
+
+  const title = decodeFrontmatterScalar(titleLine.replace(/^title\s*:\s*/, ''));
+  return title || null;
+}
+
+function addPublicationDocumentStartAnchor(markdown) {
+  const anchor = `<div id="${publicationDocumentStartId}" aria-hidden="true"></div>`;
+  const frontmatter = markdown.match(/^---\r?\n[\s\S]*?\r?\n---(?:\r?\n|$)/);
+  if (!frontmatter) {
+    return `${anchor}\n\n${markdown}`;
+  }
+
+  const insertionPoint = frontmatter[0].length;
+  return `${markdown.slice(0, insertionPoint)}\n${anchor}\n\n${markdown.slice(insertionPoint)}`;
+}
+
+function transformTocDocumentList(nodeList) {
+  return (propsList) => ({
+    type: 'element',
+    tagName: 'ol',
+    properties: {},
+    children: nodeList.flatMap((document, index) => {
+      if ((document.href ?? '').includes('publication-blank-')) {
+        return [];
+      }
+
+      const {children = []} = propsList[index] ?? {};
+      const nestedChildren = [children].flat();
+
+      if (document.sections?.length === 1 && document.sections[0].level === 1) {
+        return nestedChildren.flatMap((element) => {
+          if (element.type === 'element' && element.tagName === 'ol') {
+            return element.children;
+          }
+          return element;
+        });
+      }
+
+      return [{
+        type: 'element',
+        tagName: 'li',
+        properties: {},
+        children: [
+          {
+            type: 'element',
+            tagName: 'a',
+            properties: {href: `${document.href}#${publicationDocumentStartId}`},
+            children: [{type: 'text', value: document.title}],
+          },
+          ...nestedChildren,
+        ],
+      }];
+    }),
+  });
 }
 
 function ensureDocumentTitleHeading(markdown) {
@@ -421,13 +490,15 @@ async function preparePublication(
     const sourceAbsolute = path.join(projectRoot, sourcePath);
     const destinationAbsolute = path.join(publicationWorkDir, sourcePath);
     const markdown = await fs.readFile(sourceAbsolute, 'utf8');
+    const title = readDocumentTitle(markdown);
     const withChapterHeading = ensureDocumentTitleHeading(markdown);
-    const withPortableImages = transformRootRelativeImages(withChapterHeading, sourcePath);
+    const withDocumentStart = addPublicationDocumentStartAnchor(withChapterHeading);
+    const withPortableImages = transformRootRelativeImages(withDocumentStart, sourcePath);
     const transformed = transformAdmonitions(withPortableImages, locale, customAdmonitions);
 
     await fs.mkdir(path.dirname(destinationAbsolute), {recursive: true});
     await fs.writeFile(destinationAbsolute, transformed, 'utf8');
-    contentEntries.push(sourcePath);
+    contentEntries.push(title ? {path: sourcePath, title} : sourcePath);
   }
 
   const themeSource = path.join(projectRoot, publication.theme);
@@ -446,10 +517,21 @@ async function preparePublication(
     themeDestination,
     version,
   );
+  const blankPage = '<div class="publication-blank-page" aria-hidden="true"></div>\n';
+  const blankFront = 'publication-blank-front.md';
+  const blankBackOne = 'publication-blank-back-1.md';
+  const blankBackTwo = 'publication-blank-back-2.md';
+
+  await fs.writeFile(path.join(publicationWorkDir, blankFront), blankPage, 'utf8');
+  await fs.writeFile(path.join(publicationWorkDir, blankBackOne), blankPage, 'utf8');
+  await fs.writeFile(path.join(publicationWorkDir, blankBackTwo), blankPage, 'utf8');
+
   const entries = [
-    ...(cover ? [cover.entry] : []),
+    ...(cover ? [cover.entry, blankFront] : []),
     {rel: 'contents'},
     ...contentEntries,
+    blankBackOne,
+    blankBackTwo,
   ];
 
   const task = {
@@ -466,18 +548,17 @@ async function preparePublication(
     toc: {
       title: localeConfig.tocTitle ?? (locale === 'fr' ? 'Sommaire' : 'Contents'),
       sectionDepth: 2,
+      transformDocumentList: transformTocDocumentList,
     },
     ...(cover ? {cover: cover.cover} : {}),
     output: outputTargets(publication.outputName ?? publicationName, locale, localeConfig.outputs),
-    workspaceDir: '.vivliostyle',
+    workspaceDir: path.join(publicationWorkDir, '.vivliostyle'),
     static: {
       '/': staticDestination,
     },
   };
 
-  const configPath = path.join(publicationWorkDir, 'vivliostyle.config.json');
-  await fs.writeFile(configPath, JSON.stringify(task, null, 2), 'utf8');
-  return configPath;
+  return task;
 }
 
 async function main() {
@@ -492,14 +573,14 @@ async function main() {
   for (const [publicationName, publication] of Object.entries(config.publications)) {
     for (const [locale, localeConfig] of Object.entries(publication.locales)) {
       console.log(`Building ${publicationName} (${locale})...`);
-      const configPath = await preparePublication(
+      const configData = await preparePublication(
         publicationName,
         publication,
         locale,
         localeConfig,
         version,
       );
-      await build({config: configPath, logLevel: 'info'});
+      await build({configData, logLevel: 'info'});
     }
   }
 
