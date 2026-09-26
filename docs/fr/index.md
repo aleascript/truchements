@@ -7,7 +7,7 @@ description: Un JdR autoportant sur les Puissances, leurs Agents et l'Humanité.
 
 # Truchements
 
-:::caution Travail en cours
+:::caution[Travail en cours]
 
 **Truchements est encore en conception active.** Sa structure, son vocabulaire et ses règles peuvent évoluer. Les pages actuellement publiées sont volontairement minimales.
 

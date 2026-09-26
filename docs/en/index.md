@@ -7,7 +7,7 @@ description: A standalone TTRPG about Powers, their Agents, and Humanity.
 
 # Truchements
 
-:::caution Work in progress
+:::caution[Work in progress]
 
 **Truchements is still in active design.** Its structure, terminology and rules may change. The pages currently published here are intentionally minimal.
 
