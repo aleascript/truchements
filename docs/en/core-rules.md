@@ -14,6 +14,8 @@ description: The common rules shared by every Truchements setting.
 
 ## Resolving a Situation
 
+### What is Possible
+
 ### Bets: what matters here
 
 ## The Scale of Realization
@@ -31,5 +33,7 @@ description: The common rules shared by every Truchements setting.
 ## Comparing Successes
 
 ## Interpreting the Result
+
+## Developing an Agent
 
 ## Sixes and Settings
