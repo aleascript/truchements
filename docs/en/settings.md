@@ -10,9 +10,9 @@ A **Setting** gives the common rules a world to inhabit: Powers, Agents, their r
 
 The first settings currently planned are:
 
-- [Choirs & Legions](choirs-and-legions)
-- [New Gods](new-gods)
-- [Signals](signals)
-- [Blood & Night](blood-and-night)
+- [Choirs & Legions](./choirs-and-legions.md)
+- [New Gods](./new-gods.md)
+- [Signals](./signals.md)
+- [Blood & Night](./blood-and-night.md)
 
 They are not a shared canon. Each is a different way to play **Truchements**.
