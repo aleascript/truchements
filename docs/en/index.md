@@ -1,28 +1,29 @@
 ---
 id: home
-title: The World
+title: Truchements
 slug: /
-sidebar_position: 1
-hide_table_of_contents: true
-description: Every game begins with a world waiting to answer.
+description: A standalone TTRPG about Powers, their Agents, and Humanity.
 ---
 
-# A world begins with a question
+# Truchements
 
-Beyond the last familiar road lies a place that has never existed before. Its
-people remember old promises. Its ruins keep patient secrets. Something has
-changed, and the characters are the ones who cannot simply look away.
+:::caution Work in progress
 
-Tonight, the table gives this world a voice.
+**Truchements is still in active design.** Its structure, terminology and rules may change. The pages currently published here are intentionally minimal.
 
-You will describe what your characters notice, what they desire, and what they
-are prepared to risk. Their choices will reveal paths no one could have mapped
-in advance. The world will answer in return—sometimes with wonder, sometimes
-with danger, always with consequences.
+:::
 
-## The promise of play
+**Play the Agents of Powers that transcend Humanity.**
 
-Come with questions rather than solutions. Listen for the details that matter.
-Let every character change what becomes possible.
+**Truchements** is a standalone tabletop role-playing game built around a small common ruleset and multiple ready-to-play settings.
 
-No one knows the whole story yet. That is why we play.
+Powers can take very different forms. Their Agents are the means through which they become present and act in the world. Humanity remains part of the question each setting chooses to explore.
+
+## Current structure
+
+- [Core Rules](core-rules) — the common game rules.
+- [Settings](settings) — ready-to-play worlds built on that core.
+- [Tones](tones) — different ways to play the same setting.
+- [Time](time) — from a single period to campaigns spanning centuries or millennia.
+
+The first settings currently planned are **Choirs & Legions**, **New Gods**, **Signals**, and **Blood & Night**.
