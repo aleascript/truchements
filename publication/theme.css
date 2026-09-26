@@ -10,7 +10,7 @@
     letter-spacing: 0.04em;
   }
 
-  @bottom-right {
+  @bottom-center {
     content: counter(page);
     color: #667085;
     font-family: Inter, ui-sans-serif, system-ui, sans-serif;
@@ -23,7 +23,21 @@
     content: none;
   }
 
-  @bottom-right {
+  @bottom-center {
+    content: none;
+  }
+}
+
+@page publication-blank {
+  size: A4;
+  margin: 0;
+  background: #fff;
+
+  @top-center {
+    content: none;
+  }
+
+  @bottom-center {
     content: none;
   }
 }
@@ -36,7 +50,7 @@
     content: none;
   }
 
-  @bottom-right {
+  @bottom-center {
     content: none;
   }
 }
@@ -51,6 +65,13 @@
 
 body {
   margin: 0;
+}
+
+.publication-blank-page {
+  page: publication-blank;
+  width: 100%;
+  height: 100vh;
+  background: #fff;
 }
 
 h1,
