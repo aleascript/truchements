@@ -252,6 +252,32 @@ Ces changements modifient directement ce qui sera possible pour lui et ce qui po
 
 La relation à l'Humanité peut faire partie de ces transformations. Un Agent peut découvrir, apprendre, désirer ou devenir quelque chose que sa Puissance n'avait pas déterminé. Cette possibilité est l'une des manières dont un Truchement peut devenir davantage qu'une simple expression de sa source.
 
+## Étendre une Puissance
+
+Une Puissance est une totalité relativement stable, mais elle n'est pas nécessairement immuable.
+
+Un Agent peut **étendre sa Puissance** lorsqu'il fait entrer durablement dans son domaine quelque chose qui n'en relevait pas auparavant.
+
+Il ne suffit pas de renommer ce que la Puissance possédait déjà. L'extension doit apporter une différence réelle : une pratique, une relation, une institution, une technique, un territoire symbolique, une manière d'agir ou toute autre nouveauté que la fiction reconnaît désormais comme appartenant à la Puissance.
+
+Si cette nouveauté relève déjà d'une autre Puissance, elle ne peut pas être simplement déclarée acquise. Les Puissances ne s'affrontant pas directement, cette concurrence devient présente dans le monde à travers leurs Agents, leurs manifestations et les situations qui les opposent.
+
+L'Humanité constitue souvent une source privilégiée de nouveauté. Les Humains inventent des usages, des formes de relation, des techniques, des institutions, des récits et des manières de vivre qui ne sont pas nécessairement déjà intégrés au domaine d'une Puissance. Cela donne aux Agents une raison structurelle de s'intéresser aux Humains sans supposer qu'ils soient secrètement plus puissants.
+
+Lorsqu'une extension devient réellement établie dans la fiction :
+
+- le portrait de la **Puissance** change : un Attribut peut apparaître, être reformulé ou voir son domaine s'élargir ;
+- le **monde** change : cette nouveauté peut désormais devenir un lieu, un moyen ou une raison par laquelle la Puissance se manifeste ;
+- l'**Agent** qui a rendu cette extension possible est transformé en retour par sa relation avec la Puissance.
+
+Cette transformation de l'Agent constitue sa récompense. Selon la Déclinaison et la fiction, elle peut prendre la forme d'un nouveau don, d'un statut, d'une autorité, d'une possibilité, d'une mission, d'une marque ou d'une modification du Lien.
+
+> **Ce que la Puissance ne pouvait pas rendre présent avant cet acte peut désormais passer par l'Agent qui le lui a apporté.**
+
+Cette récompense n'est pas automatiquement exclusive ni définitive. Ce qui compte est que l'acte de l'Agent ait changé à la fois ce que la Puissance peut devenir et ce qui peut désormais passer par leur Lien.
+
+Dans une campagne longue, une extension ancienne peut finir par sembler avoir toujours appartenu à la Puissance. Les Attributs présents décrivent ce qu'elle est maintenant, pas nécessairement tout ce qu'elle a toujours été.
+
 ## Les 6 et les Déclinaisons
 
 Le **6** possède déjà un rôle dans les résolutions de l'Humanité et des Agents.
