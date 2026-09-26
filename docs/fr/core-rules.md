@@ -46,11 +46,27 @@ Le Focus met deux issues possibles en balance. Il ne décrit pas tout ce qui peu
 
 Le **Zoom** indique l'échelle de cette question. Une résolution peut porter sur un geste, une séquence entière ou une action beaucoup plus large. Plus le Zoom est large, plus des éléments différents de la fiction peuvent devenir pertinents.
 
+### Ce qui est possible
+
+Avant de chercher les Mises, la fiction détermine **ce que celui qui agit peut réellement faire**.
+
+Un Humain ordinaire ne peut pas simplement décider de voler. Un Ange qui possède des ailes peut les déployer et voler. Si rien ne rend ce vol incertain, aucun jet n'est nécessaire : il vole.
+
+De la même manière, une Puissance peut donner à ses Agents des possibilités que les Humains — ou les Agents d'autres Puissances — ne possèdent pas.
+
+Ces possibilités sont inscrites dans le **portrait de l'Agent** sous forme de mots-clés : nature, capacités, dons, liens, états ou autres éléments qui le définissent.
+
+Un mot-clé n'apporte pas automatiquement un dé. Il indique d'abord ce qui est vrai et ce qui est possible dans la fiction.
+
 ### Les Mises : ce qui compte ici
 
-Une **Mise** est un élément de la fiction qui compte réellement pour le Focus, à ce Zoom.
+Une fois l'action possible, la table regarde **ce qui compte réellement pour le Focus, à ce Zoom**.
 
-Cela peut venir du personnage, de sa Puissance, de ses relations, de son passé, de la situation, de l'environnement, d'une blessure, d'un objet, d'une préparation ou de tout autre élément pertinent.
+Un élément pertinent devient une **Mise**.
+
+Cela peut venir du portrait du personnage, de sa Puissance, de ses relations, de son passé, de la situation, de l'environnement, d'une blessure, d'un objet, d'une préparation ou de tout autre élément pertinent.
+
+Un même mot-clé peut donc simplement rendre une action possible dans une scène, puis devenir une Mise dans une autre si le Focus lui donne réellement du poids.
 
 Chaque Mise joue en faveur de l'une des deux issues.
 
@@ -162,6 +178,14 @@ Les Mises reviennent dans la fiction après le jet.
 Elles disent déjà ce qui comptait dans la situation et fournissent donc la matière du résultat. Une blessure peut empirer, une relation peut sauver un personnage, une préparation peut enfin payer, un lieu peut devenir dangereux ou une manifestation de la Puissance peut laisser une trace.
 
 Le résultat ne remplace pas la fiction : il permet à la table de décider dans quelle direction elle continue.
+
+## Faire évoluer un Agent
+
+Le portrait d'un Agent évolue avec ce qui lui arrive.
+
+Une conséquence durable peut **ajouter, modifier ou supprimer un mot-clé**. L'Agent peut acquérir un nouveau don, perdre une capacité, transformer un lien, porter une blessure, changer de statut ou devenir autre chose.
+
+Ces changements modifient directement ce qui sera possible pour lui et ce qui pourra devenir une Mise dans les situations futures.
 
 ## Les 6 et les Déclinaisons
 
