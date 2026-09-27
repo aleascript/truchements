@@ -6,7 +6,7 @@ description: Ready-to-play frameworks built on the common core of Truchements.
 
 # Settings
 
-A **Setting** gives **Truchements** a concrete form: Powers, Agents, their relationships with Humanity, typical situations, and, when useful, a few rules specific to that framework.
+A **Setting** gives **Truchements** a concrete form: Powers, Agents, their Bonds, the forms of Becoming that may transform them, typical situations, and, when useful, a few rules specific to that framework.
 
 The first Settings currently planned are:
 
@@ -19,22 +19,22 @@ They do not form a shared canon, nor do they necessarily describe separate unive
 
 ## What Connects Them
 
-What connects angels, demons, returning gods, creatures of the night, and signals from elsewhere is not the supernatural as such. It is the moment when a human faces something that transcends them and becomes other through that contact.
+What connects angels, demons, returning gods, creatures of the night, and signals from elsewhere is not the supernatural as such. It is the mediation between what a Power determines and what its Agents become through contact with the world.
 
-The chain **Power → Agent → Humanity → Agent → Power** gives these tropes a reason to exist instead of making them mere color.
+A Power brings form, possibilities, and certainty. Becoming brings variation, bifurcation, and novelty. The Agent is the truchement where the two meet.
 
 ## Common Questions
 
-A Setting does not need to provide a universal theory of transcendence. It does, however, need to make the mediation between Power, Agent, and Humanity playable.
+A Setting does not need to provide a universal theory of transcendence. It does, however, need to make the mediation between Power, Agent, and Becoming playable.
 
 For its Agents, it answers at least four questions:
 
 1. **What transcends you?** — what Power exists beyond your ordinary condition?
 2. **How does it pass through you?** — what form does the Bond take: service, lineage, incarnation, debt, creation, possession, inheritance, or something else?
-3. **What has Humanity become to you?** — a stake, mystery, resource, model, responsibility, adversary, destination, or something else?
-4. **What can a Human do, be, or produce that the Power cannot?**
+3. **What have you become through contact with the world?** — what relationships, experiences, wounds, knowledge, or transformations now belong to you?
+4. **What can appear in the world that your Power does not yet contain?**
 
-The last question does not imply that Humans are secretly “more powerful.” It simply requires the Setting to give Humanity something other than a lower rank on a power scale.
+Humanity may be a major source of Becoming, and some Settings may place it at the center. It is not required, however: other Agents, other forms of life, non-Human societies, environments, events, or chance may produce all the variation and novelty a campaign needs.
 
 A Setting also specifies what constitutes a Power's **domain**, what could genuinely extend it, how Agents can accomplish such an extension, and what their Power gives back when they bring it something it did not yet possess.
 
