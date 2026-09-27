@@ -17,6 +17,12 @@ The first Settings currently planned are:
 
 They do not form a shared canon, nor do they necessarily describe separate universes.
 
+## What Connects Them
+
+What connects angels, demons, returning gods, creatures of the night, and signals from elsewhere is not the supernatural as such. It is the moment when a human faces something that transcends them and becomes other through that contact.
+
+The chain **Power → Agent → Humanity → Agent → Power** gives these tropes a reason to exist instead of making them mere color.
+
 ## Common Questions
 
 A Setting does not need to provide a universal theory of transcendence. It does, however, need to make the mediation between Power, Agent, and Humanity playable.

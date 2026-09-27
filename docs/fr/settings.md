@@ -17,6 +17,12 @@ Les premières Déclinaisons prévues sont :
 
 Elles ne forment pas un canon commun et ne décrivent pas nécessairement des univers séparés.
 
+## Ce qui les relie
+
+Ce qui relie les anges, les démons, les dieux qui reviennent, les créatures de la nuit et les signaux venus d'ailleurs, ce n'est pas le surnaturel en soi. C'est le moment où l'humain se trouve face à quelque chose qui le dépasse et devient autre à son contact.
+
+La chaîne **Puissance → Agent → Humanité → Agent → Puissance** donne à ces tropes une raison d'exister au lieu d'en faire une simple couleur.
+
 ## Questions communes
 
 Une Déclinaison n'a pas besoin de donner une théorie universelle de la transcendance. Elle doit en revanche rendre jouable la médiation entre Puissance, Agent et Humanité.
