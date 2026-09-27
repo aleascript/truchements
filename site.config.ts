@@ -63,7 +63,7 @@ export type SiteTheme = {
 export const site = {
   title: 'Truchements',
   tagline: 'Powers act through Agents.',
-  description: 'A standalone tabletop role-playing game about Powers, their Agents, and Humanity.',
+  description: 'A standalone tabletop role-playing game about Powers and the Agents through whom they become present.',
   author: 'AleaScript',
   defaultLocale: 'en',
   locales: {

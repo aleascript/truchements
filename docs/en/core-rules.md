@@ -6,17 +6,17 @@ description: The common rules shared by every Truchements setting.
 
 # Core Rules
 
-In **Truchements**, the player characters are **Agents** bound to **Powers** that transcend Humanity.
+In **Truchements**, the player characters are **Agents** bound to **Powers** that transcend them.
 
 > **A Power becomes present in the world through its Agents.**
 
 A Power does not need to be a person, command its Agents, or even possess an intelligible will. An Agent is an Agent because a Bond lets something of the Power pass through them. The exact nature of that Bond depends on the Setting: service, lineage, incarnation, pact, creation, debt, possession, inheritance, or any other relationship established by the game world.
 
-> **An Agent becomes present in the world through Humans.**
+> **An Agent is how their Power becomes present. But they are not entirely determined by it: through contact with the world, they become other.**
 
-This does not mean an Agent must possess a human host. Encountering Humanity is what allows an Agent to acquire a history, relationships, contradictions, and transformations that their Power does not entirely determine. In return, Humanity itself becomes other through contact with Agents.
+**Truchements** calls **Becoming** the part of a being or the world that is not entirely determined by what it already is. For an Agent, it includes what they acquire beyond what their Power determines: relationships, experiences, knowledge, wounds, encounters, and transformations. Humanity is often a major source of Becoming, but other Agents, other forms of life, environments, events, or chance may transform them just as deeply.
 
-Settings give these elements a concrete form. They define the Powers that exist, the Agents that can be played, their relationship with Humanity, and the situations that set them in motion.
+Settings give these elements a concrete form. They define the Powers that exist, the Agents that can be played, their Bonds, the forms of Becoming that may transform them, and the situations that set them in motion.
 
 :::note[Some Possible Powers]
 
@@ -113,16 +113,16 @@ How those dice become Successes depends on the **nature of what is acting**. Tru
 | Prism | Resolution |
 | --- | --- |
 | **Neutral** | Each even result produces 1 Success. |
-| **Humanity** | Each even result produces 1 Success. Each 6 rerolls one odd result or, if none remains, adds a new die. |
+| **Becoming** | Each even result produces 1 Success. Each 6 rerolls one odd result or, if none remains, adds a new die. |
 | **Power** | No roll: each Bet directly produces 1 Success. |
 
-Agents have no prism of their own. They stand between Humanity and their Power, and each of their Bets belongs to one or the other depending on where it comes from.
+Agents have no prism of their own. They stand between Becoming and their Power, and each of their Bets belongs to one or the other depending on where it comes from.
 
 This scale is common to Truchements. A Setting may then specify particular features of its Powers and Agents.
 
 ### Neutral
 
-**Neutral** resolution applies to matter, the environment, and forces that act neither as Humans, Agents, nor Powers.
+**Neutral** resolution applies to matter, the environment, and forces whose action belongs neither to Becoming nor to Power.
 
 Roll one D6 per Bet.
 
@@ -130,9 +130,9 @@ Each **even** result produces one Success. Each odd result produces none.
 
 > 4 Bets → 4 dice → **2, 3, 4, 5** → **2 Successes**.
 
-### Humanity
+### Becoming
 
-Humans remain close to Neutral resolution, but the **6** carries something matter does not know: the drive of the living, its capacity to recover, to insist, and to surprise.
+**Becoming** remains close to Neutral resolution, but the **6** carries what the simple repetition of what already exists cannot produce: the possibility of recovering, branching, and surprising.
 
 Roll one D6 per Bet.
 
@@ -142,7 +142,7 @@ Rerolled or added dice are resolved in the same way: a new 6 may in turn reroll 
 
 > **2, 3, 5, 6** first gives 2 Successes. The 6 rerolls the 3, which shows a 6: 3 Successes. That new 6 rerolls the 5, which also shows a 6: 4 Successes. No odd result is left, so this last 6 adds a new die, which shows a 4. Result: **5 Successes** from 4 Bets.
 
-A Humanity roll can therefore, rarely, produce more Successes than Bets. Humanity is not stronger: it is simply never entirely predictable.
+A Becoming roll can therefore, rarely, produce more Successes than Bets. Becoming is not stronger: it is the possibility that something may arise beyond what was already given.
 
 ### Power
 
@@ -156,21 +156,21 @@ A Power is perfectly reliable, but it never exceeds its number of Bets: it alrea
 
 ### An Agent's Bets
 
-An Agent is how their Power becomes present, and they themselves become present through Humans. Their Bets carry the mark of this double belonging.
+An Agent is how their Power becomes present. But they are not entirely determined by it: through contact with the world, they become other. Their Bets carry the mark of this tension.
 
 Each keyword in an Agent's portrait has an **origin**:
 
 - a **Bond** keyword comes from the Power: what it gives them or what they are through it (nature, gifts, mark, authority…);
-- an **acquired** keyword comes from the Agent themselves, whatever its source: their encounter with Humanity or with other Agents, their relationships, experiences, knowledge, attachments, wounds, what they have become.
+- an **acquired** keyword comes from the Agent themselves, whatever its source: encounters with Humans, other Agents, other forms of life, an environment, or an event; their relationships, experiences, knowledge, attachments, wounds; what they have become.
 
 If the Power is what makes the thing possible, the keyword belongs to the Bond; otherwise, it is acquired. The origin is set with the keyword and may change if the fiction transforms it.
 
 Bets drawn from these keywords are **Bond Bets** or **Acquired Bets**. Dice in two colors help tell them apart.
 
-- **Acquired Bets** use the **Humanity** prism. They are a way of becoming free: they belong to the Agent, but lack the certainty of the Bond.
-- Through **Bond Bets**, the Power itself acts. Against Humans and matter, they use the **Power** prism: each one directly produces 1 Success.
+- **Acquired Bets** use the **Becoming** prism. They belong to the Agent, but lack the certainty of the Bond.
+- Through **Bond Bets**, the Power itself acts. As long as the opposing side does not commit Bond Bets of its own, they use the **Power** prism: each one directly produces 1 Success.
 
-Against Humans, the Bond is therefore the safe choice. It does not guarantee victory: Humans who are numerous, prepared, or determined enough can still prevail.
+The Bond is therefore the safe choice as long as no other Power becomes present in opposition. It does not guarantee victory: Becoming may exceptionally produce more Successes than Bets.
 
 #### The Cost of the Bond
 
@@ -184,13 +184,13 @@ The Agent's tension arises from this choice, without a gauge or a morality. The 
 
 Two Powers never confront one another directly. When an Agent's Bond Bets meet those of another Power, they lose their certainty.
 
-**If the opposing side commits Bond Bets, all Bond Bets on both sides are rolled with the Neutral prism.** Acquired Bets keep the Humanity prism.
+**If the opposing side commits Bond Bets, all Bond Bets on both sides are rolled with the Neutral prism.** Acquired Bets keep the Becoming prism.
 
-A clash between Agents is therefore decided at least as much by what they have become through Humanity as by what their Powers give them.
+A clash between Agents is therefore decided at least as much by what they have become through contact with the world as by what their Powers give them.
 
 :::note[Example — Choirs & Legions]
 
-An Angel protects a witness from a manipulated crowd. They commit *Wings of Light* and *Voice of the Archangel* (Bond), as well as *Former Wartime Nurse* (acquired). Against the crowd, their two Bond Bets directly produce 2 Successes; they roll one Humanity die for the third. If the crowd falls back, it is the Archangel's light that drove it away: witnesses will talk about it, and some will keep burned eyes.
+An Angel protects a witness from a manipulated crowd. They commit *Wings of Light* and *Voice of the Archangel* (Bond), as well as *Former Wartime Nurse* (acquired). Against the crowd, their two Bond Bets directly produce 2 Successes; they roll one Becoming die for the third. If the crowd falls back, it is the Archangel's light that drove it away: witnesses will talk about it, and some will keep burned eyes.
 
 Later, a Demon steps in and also commits Bond Bets. This time, both Agents' Bond Bets are rolled with the Neutral prism; only their Acquired Bets keep the drive of the 6.
 
@@ -204,13 +204,13 @@ A Power is not normally a directly accessible protagonist in a scene. It becomes
 
 **Two Powers are never the two direct opponents of the same resolution.**
 
-When Powers enter into conflict, their opposition must become present in the world: through their Agents, avatars, Humans bound to them, places, phenomena, or other forms of mediation.
+When Powers enter into conflict, their opposition must become present in the world: through their Agents, avatars, beings bound to them, places, phenomena, or other forms of mediation.
 
 If the characters believe they are directly confronting a Power outside their own Bond, they are actually confronting whatever makes it present at that place and moment. That manifestation receives the appropriate nature — most often Agent — and is resolved normally.
 
 ### Reaching a Power
 
-A Human or Agent may confront a Power directly only when the fiction establishes that they are **already bound to it**.
+A being may confront a Power directly only when the fiction establishes that they are **already bound to it**.
 
 The Bond is precisely what makes the encounter possible: creation, lineage, pact, faith, possession, debt, participation, inheritance, or any other relationship recognized by the Setting.
 
@@ -231,7 +231,7 @@ An ordinary resolution keeps only the elements that genuinely matter to the Focu
 The Focus does not cut the Power down to a few locally relevant capabilities. At the scale of this encounter, it presents itself as a relatively static whole.
 
 - The Power may commit **each distinct Attribute in its portrait** as a Bet in its favor, even when that Attribute would not seem directly relevant to the Focus in an ordinary resolution. As always for a Power, each Bet directly produces **1 Success**.
-- The bound being commits what belongs to them — an Agent's **Acquired Bets** or a Human's Bets — with the Humanity prism, and any **Bond Bets** they have. Against the Power they come from, Bond Bets lose their certainty and are rolled with the **Neutral** prism.
+- The bound being commits what belongs to them — an Agent's **Acquired Bets** or any other Bet that belongs to Becoming — with the **Becoming** prism, and any **Bond Bets** they have. Against the Power they come from, Bond Bets lose their certainty and are rolled with the **Neutral** prism.
 - Other relevant elements of the situation become Bets on either side, as in any resolution.
 
 Victory remains rare: the Power is reliable; the bound being is not.
@@ -244,7 +244,7 @@ Actors of different natures may act together.
 
 Each resolves their own Bets according to their prism — an Agent according to the origin of each of their Bets — then the Successes favoring the same outcome are added together before the final comparison.
 
-A Human may therefore act with an Agent, and several Agents may serve different Powers without requiring everyone to use the same rule.
+Humans, Agents, and other actors may therefore act together, including when several Agents serve different Powers, without requiring everyone to use the same rule.
 
 A Power intervenes directly only in the particular case described by the **Presence** rules. In other scenes, whatever acts for it is resolved according to the nature of its manifestation.
 
@@ -276,7 +276,7 @@ A lasting consequence may **add, modify, or remove a keyword**. The Agent may ga
 
 These changes directly alter what becomes possible for them and what may become a Bet in future situations.
 
-The Agent's relationship with Humanity may be part of those transformations. An Agent may discover, learn, desire, or become something their Power did not determine. This possibility is one way a Truchement can become more than a simple expression of its source.
+Encountering the world feeds those transformations. An Agent may discover, learn, desire, or become something their Power did not determine. This may come from Humanity, other Agents, other forms of life, a place, an event, or a relationship. This possibility is one way a Truchement becomes more than a simple expression of its source.
 
 ## Extending a Power
 
@@ -288,7 +288,7 @@ It is not enough to rename something the Power already possessed. The extension 
 
 If that novelty already belongs to another Power, it cannot simply be declared acquired. Because Powers do not confront one another directly, that competition becomes present in the world through their Agents, manifestations, and the situations that set them against one another.
 
-Humanity is often a privileged source of novelty. Humans invent uses, forms of relationship, techniques, institutions, stories, and ways of living that are not necessarily already integrated into a Power's domain. This gives Agents a structural reason to care about Humans without implying that Humans are secretly more powerful.
+**Becoming** is the structural source of novelty. Humanity is often a particularly fertile form of it: Humans invent uses, relationships, techniques, institutions, stories, and ways of living that are not necessarily already integrated into a Power's domain. But other Agents, other forms of life, non-Human societies, environments, events, or chance may play exactly the same role.
 
 When an extension becomes genuinely established in the fiction:
 
@@ -324,8 +324,8 @@ In a long campaign, an old extension may eventually seem as though it had always
 
 ## The 6
 
-The **6** belongs to Humanity.
+The **6** belongs to **Becoming**.
 
-It has its own effect only on dice rolled with the Humanity prism: those of Humans and the Acquired Bets of Agents. For matter and for Bond Bets rolled with the Neutral prism, a 6 is only an ordinary Success.
+It has its own effect only on dice rolled with the Becoming prism: those of beings that use this prism and the Acquired Bets of Agents. For matter and for Bond Bets rolled with the Neutral prism, a 6 is only an ordinary Success.
 
-A Setting may specify the form this human drive takes in its world. The 6 is not, however, where the Power manifests: what passes from the Power into the world passes through its Agents, and in particular through their Bond Bets.
+A Setting may specify the form this drive of Becoming takes in its world. The 6 is not, however, where the Power manifests: what passes from the Power into the world passes through its Agents, and in particular through their Bond Bets.
