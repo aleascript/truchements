@@ -6,7 +6,7 @@ description: Des cadres prêts à jouer construits sur le socle commun de Truche
 
 # Déclinaisons
 
-Une **Déclinaison** donne une forme concrète à **Truchements** : des Puissances, des Agents, leurs relations avec l'Humanité, des situations typiques et, lorsque c'est utile, quelques règles propres au cadre.
+Une **Déclinaison** donne une forme concrète à **Truchements** : des Puissances, des Agents, leurs Liens, les formes de Devenir qui peuvent les transformer, des situations typiques et, lorsque c'est utile, quelques règles propres au cadre.
 
 Les premières Déclinaisons prévues sont :
 
@@ -19,22 +19,22 @@ Elles ne forment pas un canon commun et ne décrivent pas nécessairement des un
 
 ## Ce qui les relie
 
-Ce qui relie les anges, les démons, les dieux qui reviennent, les créatures de la nuit et les signaux venus d'ailleurs, ce n'est pas le surnaturel en soi. C'est le moment où l'humain se trouve face à quelque chose qui le dépasse et devient autre à son contact.
+Ce qui relie les anges, les démons, les dieux qui reviennent, les créatures de la nuit et les signaux venus d'ailleurs, ce n'est pas le surnaturel en soi. C'est la médiation entre ce qu'une Puissance détermine et ce que ses Agents deviennent au contact du monde.
 
-La chaîne **Puissance → Agent → Humanité → Agent → Puissance** donne à ces tropes une raison d'exister au lieu d'en faire une simple couleur.
+Une Puissance apporte de la forme, des possibilités et de la certitude. Le Devenir apporte de la variation, de la bifurcation et de la nouveauté. L'Agent est le truchement où les deux se rencontrent.
 
 ## Questions communes
 
-Une Déclinaison n'a pas besoin de donner une théorie universelle de la transcendance. Elle doit en revanche rendre jouable la médiation entre Puissance, Agent et Humanité.
+Une Déclinaison n'a pas besoin de donner une théorie universelle de la transcendance. Elle doit en revanche rendre jouable la médiation entre Puissance, Agent et Devenir.
 
 Pour ses Agents, elle répond notamment à quatre questions :
 
 1. **Qu'est-ce qui te dépasse ?** — quelle Puissance existe au-delà de ta condition ordinaire ?
 2. **Comment cela passe-t-il par toi ?** — quelle forme prend le Lien : service, filiation, incarnation, dette, création, possession, héritage ou autre ?
-3. **Qu'est-ce que l'Humanité est devenue pour toi ?** — enjeu, mystère, ressource, modèle, responsabilité, adversaire, destination ou autre chose ?
-4. **Qu'est-ce qu'un Humain peut faire, être ou produire que la Puissance ne peut pas ?**
+3. **Qu'es-tu devenu au contact du monde ?** — quelles relations, expériences, blessures, savoirs ou transformations t'appartiennent désormais ?
+4. **Qu'est-ce qui peut apparaître dans le monde que ta Puissance ne contient pas encore ?**
 
-La dernière question ne suppose pas que les Humains soient secrètement « plus puissants ». Elle oblige simplement la Déclinaison à donner à l'Humanité autre chose qu'un rang inférieur sur une échelle de puissance.
+L'Humanité peut être une source majeure de Devenir, et certaines Déclinaisons peuvent la placer au centre. Elle n'est cependant pas nécessaire : d'autres Agents, d'autres formes de vie, des sociétés non humaines, des environnements, des événements ou le hasard peuvent produire la variation et la nouveauté dont une campagne a besoin.
 
 Une Déclinaison précise également ce qui constitue le **domaine** d'une Puissance, ce qui pourrait réellement l'étendre, comment les Agents peuvent accomplir une telle extension et ce que leur Puissance leur rend lorsqu'ils lui apportent quelque chose qu'elle ne possédait pas encore.
 
