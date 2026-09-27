@@ -108,14 +108,15 @@ An outcome may have **zero Bets**: it then starts with zero dice or zero Success
 
 Each Bet normally contributes **one D6**.
 
-How those dice become Successes depends on the **nature of what is acting**.
+How those dice become Successes depends on the **nature of what is acting**. Truchements distinguishes three prisms.
 
-| Nature | Resolution |
+| Prism | Resolution |
 | --- | --- |
 | **Neutral** | Each even result produces 1 Success. |
-| **Humanity** | Each even result produces 1 Success. Each 6 from the initial roll may reroll one odd result. |
-| **Agent** | Each even result produces 1 Success and may reroll one odd result. A 6 with no odd result left to reroll adds a new die. |
+| **Humanity** | Each even result produces 1 Success. Each 6 rerolls one odd result or, if none remains, adds a new die. |
 | **Power** | No roll: each Bet directly produces 1 Success. |
+
+Agents have no prism of their own. They stand between Humanity and their Power, and each of their Bets belongs to one or the other depending on where it comes from.
 
 This scale is common to Truchements. A Setting may then specify particular features of its Powers and Agents.
 
@@ -131,33 +132,17 @@ Each **even** result produces one Success. Each odd result produces none.
 
 ### Humanity
 
-Humans remain close to Neutral resolution, but a **6** sometimes lets them recover from an unfavorable result.
+Humans remain close to Neutral resolution, but the **6** carries something matter does not know: the drive of the living, its capacity to recover, to insist, and to surprise.
 
 Roll one D6 per Bet.
 
-Each **even** result produces one Success. For each **6 obtained on the initial roll**, the player may reroll one odd result.
+Each **even** result produces one Success. Each **6** also lets the player reroll one odd result. If no odd result is left to reroll, the 6 adds **one new die**.
 
-This reroll never creates a new die. It is not cumulative: if the rerolled die itself shows a 6, that 6 counts as a Success but does not grant another reroll.
+Rerolled or added dice are resolved in the same way: a new 6 may in turn reroll an odd result or add a die. A 2 or a 4 produces only a Success.
 
-> **2, 3, 5, 6** first gives 2 Successes. The 6 allows the player to reroll the 3 or the 5. If that reroll gives a 6, the total rises to 3 Successes, but the chain stops there.
+> **2, 3, 5, 6** first gives 2 Successes. The 6 rerolls the 3, which shows a 6: 3 Successes. That new 6 rerolls the 5, which also shows a 6: 4 Successes. No odd result is left, so this last 6 adds a new die, which shows a 4. Result: **5 Successes** from 4 Bets.
 
-### Agent
-
-Agents have a much stronger hold over uncertainty.
-
-Roll one D6 per Bet.
-
-Each **even** result produces one Success **and may reroll one odd result**.
-
-New results are resolved in the same way: a new even result may therefore reroll another odd result still in play.
-
-If a **6** acts when there is no odd result left to reroll, it adds **one new die**. That new die is then resolved normally.
-
-Cascades are therefore possible.
-
-> **2, 3, 5, 6** gives 2 Successes. The 2 and the 6 may reroll the two odd results. If one of those rerolls produces another 6 when no odd result remains, that 6 adds a new die.
-
-Some Settings may distinguish several degrees among Agents when their hierarchies or differences in power justify it. For now, the common rule above remains the reference.
+A Humanity roll can therefore, rarely, produce more Successes than Bets. Humanity is not stronger: it is simply never entirely predictable.
 
 ### Power
 
@@ -167,7 +152,49 @@ A Power does not roll dice for its own Bets.
 
 > 4 Bets → **4 Successes**.
 
-A Power is therefore perfectly reliable at an equal number of Bets. An Agent may nevertheless, through rerolls and cascades, exceptionally produce more Successes than their initial number of Bets.
+A Power is perfectly reliable, but it never exceeds its number of Bets: it already is what it is.
+
+### An Agent's Bets
+
+An Agent is how their Power becomes present, and they themselves become present through Humans. Their Bets carry the mark of this double belonging.
+
+Each keyword in an Agent's portrait has an **origin**:
+
+- a **Bond** keyword comes from the Power: what it gives them or what they are through it (nature, gifts, mark, authority…);
+- an **acquired** keyword comes from the Agent themselves, whatever its source: their encounter with Humanity or with other Agents, their relationships, experiences, knowledge, attachments, wounds, what they have become.
+
+If the Power is what makes the thing possible, the keyword belongs to the Bond; otherwise, it is acquired. The origin is set with the keyword and may change if the fiction transforms it.
+
+Bets drawn from these keywords are **Bond Bets** or **Acquired Bets**. Dice in two colors help tell them apart.
+
+- **Acquired Bets** use the **Humanity** prism. They are a way of becoming free: they belong to the Agent, but lack the certainty of the Bond.
+- Through **Bond Bets**, the Power itself acts. Against Humans and matter, they use the **Power** prism: each one directly produces 1 Success.
+
+Against Humans, the Bond is therefore the safe choice. It does not guarantee victory: Humans who are numerous, prepared, or determined enough can still prevail.
+
+#### The Cost of the Bond
+
+**What succeeds through the Bond is the Power succeeding.**
+
+Successes from Bond Bets are interpreted according to the nature of the Power, not that of the Agent: whatever is achieved is achieved the way the Power would achieve it. An Agent of a Seraph of Fire who prevails through the Bond burns something, whether they want to or not. The GM describes that manner; it is one of the ways they make the Power heard in the scene.
+
+The Agent's tension arises from this choice, without a gauge or a morality. The Bond is reliable, but it is not theirs. What is acquired is uncertain, but it belongs to them.
+
+#### Against Another Agent
+
+Two Powers never confront one another directly. When an Agent's Bond Bets meet those of another Power, they lose their certainty.
+
+**If the opposing side commits Bond Bets, all Bond Bets on both sides are rolled with the Neutral prism.** Acquired Bets keep the Humanity prism.
+
+A clash between Agents is therefore decided at least as much by what they have become through Humanity as by what their Powers give them.
+
+:::note[Example — Choirs & Legions]
+
+An Angel protects a witness from a manipulated crowd. They commit *Wings of Light* and *Voice of the Archangel* (Bond), as well as *Former Wartime Nurse* (acquired). Against the crowd, their two Bond Bets directly produce 2 Successes; they roll one Humanity die for the third. If the crowd falls back, it is the Archangel's light that drove it away: witnesses will talk about it, and some will keep burned eyes.
+
+Later, a Demon steps in and also commits Bond Bets. This time, both Agents' Bond Bets are rolled with the Neutral prism; only their Acquired Bets keep the drive of the 6.
+
+:::
 
 ## The Presence of a Power
 
@@ -191,24 +218,23 @@ The confrontation need not be a physical fight. It may concern a refused command
 
 ### The Power as a Whole
 
+:::caution[Provisional rule]
+
+This rule is still under construction. It lets the table play a confrontation with one's own Power right away, but it does not yet capture well what is truly at stake: cutting oneself off from it, breaking or transforming the Bond, undoing or changing one of its Attributes. It will evolve to better account for that gesture.
+
+:::
+
 An ordinary resolution keeps only the elements that genuinely matter to the Focus, at that Zoom, as Bets.
 
-**A direct confrontation with a Power is an exception.**
+**A direct confrontation with one's own Power is an exception.**
 
 The Focus does not cut the Power down to a few locally relevant capabilities. At the scale of this encounter, it presents itself as a relatively static whole.
 
-- The Power may commit **each distinct Attribute in its portrait** as a Bet in its favor, even when that Attribute would not seem directly relevant to the Focus in an ordinary resolution.
-- The Power's number of Bets can never be lower than the number of Bets held by the Human or Agent confronting it. If its Attributes provide fewer, its **Presence** raises its effective number of Bets to that floor.
-- This floor invents no new Attributes and adds no new elements to interpret after the resolution. It expresses the Power's hold within the very Bond that makes it reachable.
-- As always for a Power, each effective Bet directly produces **1 Success**.
+- The Power may commit **each distinct Attribute in its portrait** as a Bet in its favor, even when that Attribute would not seem directly relevant to the Focus in an ordinary resolution. As always for a Power, each Bet directly produces **1 Success**.
+- The bound being commits what belongs to them — an Agent's **Acquired Bets** or a Human's Bets — with the Humanity prism, and any **Bond Bets** they have. Against the Power they come from, Bond Bets lose their certainty and are rolled with the **Neutral** prism.
+- Other relevant elements of the situation become Bets on either side, as in any resolution.
 
-Bets drawn from Attributes may return to the fiction when the result is interpreted. Any additional amount created by the Presence floor is not a new fictional reason: it is the minimum measure of the Power within that confrontation.
-
-An Agent who commits 4 Bets therefore faces at least **4 Successes** from their Power, and more if the Power's committed Attributes exceed that number. To win, the Agent must produce more Successes than their initial number of Bets through rerolls and cascades.
-
-This is intentionally rare.
-
-Under the common rules, a Human can at best reach the number of Successes corresponding to their initial Bets. They may therefore resist, hold, or produce a status quo depending on the Focus, but they cannot directly exceed the Presence floor without a Setting-specific rule.
+Victory remains rare: the Power is reliable; the bound being is not.
 
 A victory against a Power does not automatically mean destroying it. The **Focus** and **Zoom** still determine what was truly at stake: refusing an order, breaking a Bond, transforming an Attribute, or overthrowing a Power are very different questions.
 
@@ -216,7 +242,7 @@ A victory against a Power does not automatically mean destroying it. The **Focus
 
 Actors of different natures may act together.
 
-Each resolves their own Bets according to their nature, then the Successes favoring the same outcome are added together before the final comparison.
+Each resolves their own Bets according to their prism — an Agent according to the origin of each of their Bets — then the Successes favoring the same outcome are added together before the final comparison.
 
 A Human may therefore act with an Agent, and several Agents may serve different Powers without requiring everyone to use the same rule.
 
@@ -276,18 +302,30 @@ That transformation of the Agent is their reward. Depending on the Setting and t
 
 This reward is not automatically exclusive or permanent. What matters is that the Agent's act changed both what the Power can become and what can now pass through their Bond.
 
-In a long campaign, an old extension may eventually seem as though it had always belonged to the Power. Present Attributes describe what the Power is now, not necessarily everything it has always been.
+### From Acquired to Bond
 
-## Sixes and Settings
+One of the strongest forms of this reward concerns the very origin of keywords.
 
-The **6** already has a role in Humanity and Agent resolutions.
+When what an Agent brings to their Power corresponded to one of their acquired keywords, that keyword may **become a Bond keyword**. What belonged to them alone, with the uncertainty of what is acquired, is now recognized by the Power and passes through it with its certainty.
 
-Some Settings may also attach an effect to a 6 that is specific to a Power, a family of Powers, or the bond between a Power and its Agents.
+This recognition does not necessarily concern them alone. What now belongs to the Power's domain can often pass through all of its Agents: depending on the Setting and the Power, other Agents may receive that Bond keyword. A single Agent can thus change what all the others are.
 
-:::note[Example]
+The cost remains that of the Bond: what now succeeds through this keyword is the Power succeeding.
 
-In one Setting, a 6 might make something of the Power visible through its Agent: a sign, a presence, a transformation, or a particular consequence.
+:::note[Example — Choirs & Legions]
 
-The exact form of these manifestations belongs to each Setting.
+The Angel from the previous example learned to care for the wounded on battlefields: *Former Wartime Nurse* is an acquired keyword. They manage to have the care of bodies recognized as part of their Archangel's domain, which until then knew only protection and judgment.
+
+Their keyword becomes a Bond keyword, *Hands of the Archangel*. From now on, their healing succeeds with the Power's certainty — but it is the Archangel's light that closes the wounds. And other Angels of this Archangel begin to heal as well.
 
 :::
+
+In a long campaign, an old extension may eventually seem as though it had always belonged to the Power. Present Attributes describe what the Power is now, not necessarily everything it has always been.
+
+## The 6
+
+The **6** belongs to Humanity.
+
+It has its own effect only on dice rolled with the Humanity prism: those of Humans and the Acquired Bets of Agents. For matter and for Bond Bets rolled with the Neutral prism, a 6 is only an ordinary Success.
+
+A Setting may specify the form this human drive takes in its world. The 6 is not, however, where the Power manifests: what passes from the Power into the world passes through its Agents, and in particular through their Bond Bets.

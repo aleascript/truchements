@@ -108,14 +108,15 @@ Une issue peut avoir **zéro Mise** : elle aura alors zéro dé ou zéro Réussi
 
 Chaque Mise apporte normalement **un D6**.
 
-La manière dont ces dés deviennent des Réussites dépend de la **nature de ce qui agit**.
+La manière dont ces dés deviennent des Réussites dépend de la **nature de ce qui agit**. Truchements distingue trois prismes.
 
-| Nature | Résolution |
+| Prisme | Résolution |
 | --- | --- |
 | **Neutre** | Chaque résultat pair produit 1 Réussite. |
-| **Humanité** | Chaque pair produit 1 Réussite. Chaque 6 du lancer initial peut relancer un impair. |
-| **Agent** | Chaque pair produit 1 Réussite et peut relancer un impair. Un 6 sans impair à relancer ajoute un nouveau dé. |
+| **Humanité** | Chaque pair produit 1 Réussite. Chaque 6 relance un impair ou, s'il n'en reste aucun, ajoute un nouveau dé. |
 | **Puissance** | Aucun jet : chaque Mise produit directement 1 Réussite. |
+
+Les Agents n'ont pas de prisme propre. Ils se tiennent entre l'Humanité et leur Puissance, et chacune de leurs Mises relève de l'une ou de l'autre selon sa provenance.
 
 Cette échelle est commune à Truchements. Une Déclinaison peut ensuite préciser certaines particularités de ses Puissances et de leurs Agents.
 
@@ -131,33 +132,17 @@ Chaque résultat **pair** produit une Réussite. Chaque résultat impair n'en pr
 
 ### Humanité
 
-Les Humains restent proches de la résolution Neutre, mais un **6** leur permet parfois de reprendre un résultat défavorable.
+Les Humains restent proches de la résolution Neutre, mais le **6** porte ce que la matière ne connaît pas : la poussée du vivant, sa capacité à reprendre, à insister et à surprendre.
 
 Lancez un D6 par Mise.
 
-Chaque résultat **pair** produit une Réussite. Pour chaque **6 obtenu au lancer initial**, le joueur peut relancer un résultat impair.
+Chaque résultat **pair** produit une Réussite. Chaque **6** permet en outre de relancer un résultat impair. S'il ne reste aucun impair à relancer, le 6 ajoute **un nouveau dé**.
 
-Cette relance ne crée jamais de nouveau dé. Elle n'est pas cumulative : si le dé relancé donne lui-même un 6, ce 6 compte comme une Réussite mais ne permet pas une nouvelle relance.
+Les dés relancés ou ajoutés sont résolus de la même manière : un nouveau 6 peut à son tour relancer un impair ou ajouter un dé. Les 2 et les 4 ne produisent qu'une Réussite.
 
-> **2, 3, 5, 6** donne d'abord 2 Réussites. Le 6 permet de relancer le 3 ou le 5. Si cette relance donne 6, le total passe à 3 Réussites, mais la chaîne s'arrête là.
+> **2, 3, 5, 6** donne d'abord 2 Réussites. Le 6 relance le 3, qui donne un 6 : 3 Réussites. Ce nouveau 6 relance le 5, qui donne lui aussi un 6 : 4 Réussites. Il ne reste plus d'impair : ce dernier 6 ajoute un nouveau dé, qui donne 4. Résultat : **5 Réussites** pour 4 Mises.
 
-### Agent
-
-Les Agents ont une prise beaucoup plus forte sur l'incertitude.
-
-Lancez un D6 par Mise.
-
-Chaque résultat **pair** produit une Réussite **et peut relancer un impair**.
-
-Les nouveaux résultats sont résolus de la même manière : un nouveau pair peut donc à son tour relancer un impair encore présent.
-
-Si un **6** doit agir alors qu'il n'existe plus d'impair à relancer, il ajoute **un nouveau dé**. Ce nouveau dé est lui aussi résolu normalement.
-
-Les cascades sont donc possibles.
-
-> **2, 3, 5, 6** donne 2 Réussites. Le 2 et le 6 peuvent relancer les deux impairs. Si l'une de ces relances produit un nouveau 6 alors qu'il n'existe plus d'impair, ce 6 ajoute un nouveau dé.
-
-Certaines Déclinaisons pourront distinguer plusieurs degrés entre Agents lorsque leurs hiérarchies ou leurs différences de puissance le justifient. La règle commune ci-dessus reste pour l'instant la référence.
+Un jet d'Humanité peut donc, rarement, produire davantage de Réussites que de Mises. L'Humanité n'est pas plus forte : elle n'est simplement jamais tout à fait prévisible.
 
 ### Puissance
 
@@ -167,7 +152,49 @@ Une Puissance ne lance pas les dés pour ses propres Mises.
 
 > 4 Mises → **4 Réussites**.
 
-Une Puissance est donc parfaitement fiable à nombre de Mises égal. Un Agent peut toutefois, grâce à ses relances et à ses cascades, produire exceptionnellement davantage de Réussites que son nombre initial de Mises.
+Une Puissance est parfaitement fiable, mais elle ne dépasse jamais son nombre de Mises : elle est déjà ce qu'elle est.
+
+### Les Mises d'un Agent
+
+Un Agent est ce par quoi sa Puissance devient présente, et il devient lui-même présent à travers les Humains. Ses Mises portent la trace de cette double appartenance.
+
+Chaque mot-clé du portrait d'un Agent a une **provenance** :
+
+- un mot-clé **du Lien** vient de la Puissance : ce qu'elle lui donne ou ce qu'il est par elle (nature, dons, marque, autorité…) ;
+- un mot-clé **acquis** vient de l'Agent lui-même, quelle qu'en soit la source : sa rencontre avec l'Humanité ou avec d'autres Agents, ses relations, expériences, savoirs, attachements, blessures, ce qu'il est devenu.
+
+Si c'est la Puissance qui rend la chose possible, le mot-clé relève du Lien ; sinon, il est acquis. La provenance est fixée avec le mot-clé et peut changer si la fiction le transforme.
+
+Les Mises tirées de ces mots-clés sont des **Mises du Lien** ou des **Mises acquises**. Des dés de deux couleurs aident à les distinguer.
+
+- Les **Mises acquises** utilisent le prisme **Humanité**. Elles sont une manière de s'émanciper : elles appartiennent à l'Agent, mais n'ont pas la certitude du Lien.
+- À travers les **Mises du Lien**, c'est la Puissance qui agit. Face aux Humains et à la matière, elles utilisent le prisme **Puissance** : chacune produit directement 1 Réussite.
+
+Face aux Humains, le Lien est donc le choix sûr. Il ne garantit pas la victoire : des Humains assez nombreux, préparés ou déterminés peuvent encore l'emporter.
+
+#### Ce que coûte le Lien
+
+**Ce qui réussit par le Lien, c'est la Puissance qui le réussit.**
+
+Les Réussites des Mises du Lien s'interprètent selon la nature de la Puissance, pas selon celle de l'Agent : ce qui est obtenu l'est comme la Puissance l'obtiendrait. L'Agent d'un Séraphin du Feu qui s'impose par le Lien brûle quelque chose, qu'il le veuille ou non. Le MJ décrit cette manière ; c'est l'une des façons dont il fait entendre la Puissance dans la scène.
+
+Le tiraillement de l'Agent naît de ce choix, sans jauge ni morale. Le Lien est fiable, mais il n'est pas à lui. Ce qui est acquis est incertain, mais lui appartient.
+
+#### Face à un autre Agent
+
+Deux Puissances ne s'affrontent jamais directement. Lorsque les Mises du Lien d'un Agent rencontrent celles d'une autre Puissance, elles perdent leur certitude.
+
+**Si le camp adverse engage des Mises du Lien, toutes les Mises du Lien des deux camps sont lancées au prisme Neutre.** Les Mises acquises gardent le prisme Humanité.
+
+Un affrontement entre Agents se décide donc au moins autant par ce qu'ils sont devenus au contact de l'Humanité que par ce que leurs Puissances leur donnent.
+
+:::note[Exemple — Choeurs & Légions]
+
+Un Ange protège un témoin face à une foule manipulée. Il engage *Ailes de lumière* et *Voix de l'Archange* (Lien), ainsi que *Ancien infirmier de guerre* (acquis). Face à la foule, ses deux Mises du Lien produisent directement 2 Réussites ; il lance un dé Humanité pour la troisième. Si la foule recule, c'est la lumière de l'Archange qui l'a repoussée : les témoins en parleront, et certains garderont les yeux brûlés.
+
+Plus tard, un Démon s'interpose et engage lui aussi des Mises du Lien. Cette fois, les Mises du Lien des deux Agents sont lancées au prisme Neutre ; seules leurs Mises acquises gardent l'élan du 6.
+
+:::
 
 ## La Présence d'une Puissance
 
@@ -191,24 +218,23 @@ La confrontation n'est pas nécessairement un combat physique. Elle peut porter 
 
 ### La Puissance comme totalité
 
+:::caution[Règle provisoire]
+
+Cette règle est encore en construction. Elle permet de jouer dès maintenant une confrontation avec sa Puissance, mais ne représente pas encore bien ce qui s'y joue réellement : se couper d'elle, rompre ou transformer le Lien, défaire ou changer l'un de ses Attributs. Elle évoluera pour mieux rendre compte de ce geste.
+
+:::
+
 Une résolution ordinaire ne retient comme Mises que les éléments réellement pertinents pour le Focus, à ce Zoom.
 
-**Une confrontation directe avec une Puissance constitue une exception.**
+**Une confrontation directe avec sa Puissance constitue une exception.**
 
 La Puissance n'est pas découpée par le Focus en quelques capacités localement pertinentes. À l'échelle de cette rencontre, elle se présente comme une totalité relativement statique.
 
-- La Puissance peut engager **chacun des Attributs distincts de son portrait** comme une Mise en sa faveur, même si cet Attribut ne semblerait pas directement lié au Focus dans une résolution ordinaire.
-- Le nombre de Mises de la Puissance ne peut jamais être inférieur au nombre de Mises de l'Humain ou de l'Agent qui la confronte. Si ses Attributs en fournissent moins, sa **Présence** porte son nombre effectif de Mises jusqu'à ce plancher.
-- Ce plancher n'invente pas de nouveaux Attributs et n'ajoute pas de nouveaux éléments à interpréter après la résolution. Il exprime l'ascendant de la Puissance dans le Lien même qui permet de l'atteindre.
-- Comme toujours pour une Puissance, chaque Mise effective produit directement **1 Réussite**.
+- La Puissance peut engager **chacun des Attributs distincts de son portrait** comme une Mise en sa faveur, même si cet Attribut ne semblerait pas directement lié au Focus dans une résolution ordinaire. Comme toujours pour une Puissance, chaque Mise produit directement **1 Réussite**.
+- L'être lié engage ce qui lui appartient — les **Mises acquises** d'un Agent ou les Mises d'un Humain — au prisme Humanité, et ses éventuelles **Mises du Lien**. Face à la Puissance dont elles proviennent, les Mises du Lien perdent leur certitude et sont lancées au prisme **Neutre**.
+- Les autres éléments pertinents de la situation deviennent des Mises de part et d'autre, comme dans toute résolution.
 
-Les Mises issues des Attributs peuvent revenir dans la fiction lors de l'interprétation du résultat. Le supplément éventuel dû au plancher de Présence n'est pas une nouvelle raison fictionnelle : c'est la mesure minimale de la Puissance dans cette confrontation.
-
-Un Agent qui engage 4 Mises affronte donc au minimum **4 Réussites** de sa Puissance, et davantage si les Attributs engagés par celle-ci dépassent ce nombre. Pour gagner, l'Agent doit produire plus de Réussites que son nombre initial de Mises grâce à ses relances et à ses cascades.
-
-C'est volontairement rare.
-
-Avec les règles communes, un Humain peut au mieux atteindre le nombre de Réussites correspondant à ses Mises initiales. Il peut donc résister, tenir ou produire un statu quo selon le Focus, mais il ne dépasse pas directement le plancher de Présence sans règle particulière de Déclinaison.
+Une victoire reste rare : la Puissance est fiable, l'être lié ne l'est pas.
 
 Une victoire contre une Puissance ne signifie pas automatiquement sa destruction. Le **Focus** et le **Zoom** disent toujours ce qui était réellement en jeu : refuser un ordre, rompre un Lien, transformer un Attribut ou renverser une Puissance sont des enjeux très différents.
 
@@ -216,7 +242,7 @@ Une victoire contre une Puissance ne signifie pas automatiquement sa destruction
 
 Des acteurs de natures différentes peuvent agir ensemble.
 
-Chacun résout ses propres Mises selon sa nature, puis les Réussites qui favorisent la même issue sont additionnées avant la comparaison finale.
+Chacun résout ses propres Mises selon son prisme — un Agent selon la provenance de chacune de ses Mises —, puis les Réussites qui favorisent la même issue sont additionnées avant la comparaison finale.
 
 Un Humain peut donc agir avec un Agent et plusieurs Agents peuvent servir des Puissances différentes sans qu'il soit nécessaire de leur appliquer une règle commune.
 
@@ -276,18 +302,30 @@ Cette transformation de l'Agent constitue sa récompense. Selon la Déclinaison 
 
 Cette récompense n'est pas automatiquement exclusive ni définitive. Ce qui compte est que l'acte de l'Agent ait changé à la fois ce que la Puissance peut devenir et ce qui peut désormais passer par leur Lien.
 
-Dans une campagne longue, une extension ancienne peut finir par sembler avoir toujours appartenu à la Puissance. Les Attributs présents décrivent ce qu'elle est maintenant, pas nécessairement tout ce qu'elle a toujours été.
+### D'acquis à Lien
 
-## Les 6 et les Déclinaisons
+L'une des formes les plus fortes de cette récompense touche la provenance même des mots-clés.
 
-Le **6** possède déjà un rôle dans les résolutions de l'Humanité et des Agents.
+Lorsque ce qu'un Agent apporte à sa Puissance correspondait à l'un de ses mots-clés acquis, ce mot-clé peut **devenir un mot-clé du Lien**. Ce qui lui appartenait en propre, avec l'incertitude de ce qui est acquis, est désormais reconnu par la Puissance et passe par elle avec sa certitude.
 
-Certaines Déclinaisons pourront également lui associer un effet propre à une Puissance, à une famille de Puissances ou au lien entre une Puissance et ses Agents.
+Cette reconnaissance ne concerne pas nécessairement lui seul. Ce qui appartient désormais au domaine de la Puissance peut souvent passer par l'ensemble de ses Agents : selon la Déclinaison et la Puissance, d'autres Agents peuvent recevoir ce mot-clé du Lien. Un seul Agent peut ainsi changer ce que sont tous les autres.
 
-:::note[Exemple]
+La contrepartie reste celle du Lien : ce qui réussit désormais par ce mot-clé, c'est la Puissance qui le réussit.
 
-Dans une Déclinaison, un 6 pourrait rendre visible quelque chose de la Puissance à travers son Agent : un signe, une présence, une transformation ou une conséquence particulière.
+:::note[Exemple — Choeurs & Légions]
 
-La forme exacte de ces manifestations appartient à chaque Déclinaison.
+L'Ange de l'exemple précédent a appris à soigner les blessés sur les champs de bataille : *Ancien infirmier de guerre* est un mot-clé acquis. Il parvient à faire reconnaître le soin des corps comme appartenant au domaine de son Archange, qui ne connaissait jusque-là que la protection et le jugement.
+
+Son mot-clé devient un mot-clé du Lien, *Mains de l'Archange*. Désormais, ses soins réussissent avec la certitude de la Puissance — mais c'est la lumière de l'Archange qui referme les plaies. Et d'autres Anges de cet Archange commencent à guérir, eux aussi.
 
 :::
+
+Dans une campagne longue, une extension ancienne peut finir par sembler avoir toujours appartenu à la Puissance. Les Attributs présents décrivent ce qu'elle est maintenant, pas nécessairement tout ce qu'elle a toujours été.
+
+## Le 6
+
+Le **6** appartient à l'Humanité.
+
+Il n'a d'effet propre que sur les dés lancés au prisme Humanité : ceux des Humains et les Mises acquises des Agents. Pour la matière et pour les Mises du Lien lancées au prisme Neutre, un 6 n'est qu'une Réussite ordinaire.
+
+Une Déclinaison peut préciser la forme que prend cette poussée humaine dans son monde. Le 6 n'est en revanche pas l'endroit où la Puissance se manifeste : ce qui passe de la Puissance dans le monde passe par ses Agents, et en particulier par leurs Mises du Lien.
