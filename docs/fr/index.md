@@ -41,4 +41,4 @@ Chaque Déclinaison donne une forme concrète à cette relation en répondant no
 - [Tonalités](tones) — différentes manières de jouer une même déclinaison.
 - [Temporalités](time) — d'une époque unique aux campagnes traversant les siècles ou les millénaires.
 
-Les premières déclinaisons prévues sont **Choeurs & Légions**, **Anciens & Nouveaux Dieux**, **Signauxs** et **Sang & Nuit**.
+Les premières déclinaisons prévues sont **Choeurs & Légions**, **Anciens & Nouveaux Dieux**, **Signaux** et **Sang & Nuit**.

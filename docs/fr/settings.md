@@ -1,10 +1,10 @@
 ---
 id: settings
-title: Settings
+title: Déclinaisons
 description: Des cadres prêts à jouer construits sur le socle commun de Truchements.
 ---
 
-# Settings
+# Déclinaisons
 
 Une **Déclinaison** donne une forme concrète à **Truchements** : des Puissances, des Agents, leurs relations avec l'Humanité, des situations typiques et, lorsque c'est utile, quelques règles propres au cadre.
 
