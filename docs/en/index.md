@@ -15,6 +15,8 @@ description: A TTRPG about Powers, their Agents, and Humanity.
 
 :::
 
+> **Truchement**: that through which something becomes present without being directly present.
+
 **Play the Agents of Powers that transcend Humanity.**
 
 **Truchements** is a tabletop role-playing game built around a small common ruleset and multiple ready-to-play settings.
