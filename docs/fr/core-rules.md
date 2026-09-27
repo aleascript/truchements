@@ -6,17 +6,17 @@ description: Le socle de règles commun à toutes les déclinaisons de Truchemen
 
 # Règles
 
-Dans **Truchements**, les personnages joueurs sont des **Agents** liés à des **Puissances** qui dépassent l'Humanité.
+Dans **Truchements**, les personnages joueurs sont des **Agents** liés à des **Puissances** qui les dépassent.
 
 > **Une Puissance devient présente dans le monde à travers ses Agents.**
 
 Une Puissance n'a pas besoin d'être une personne, de commander ses Agents ni même de posséder une volonté intelligible. Un Agent l'est parce qu'un Lien fait passer quelque chose de la Puissance à travers lui. La nature exacte de ce Lien dépend de la Déclinaison : service, filiation, incarnation, pacte, création, dette, possession, héritage ou toute autre relation prévue par le cadre de jeu.
 
-> **Un Agent devient présent dans le monde à travers les Humains.**
+> **Un Agent est ce par quoi sa Puissance devient présente. Mais il n'est pas entièrement déterminé par elle : au contact du monde, il devient autre.**
 
-Cela ne signifie pas qu'un Agent doive posséder un hôte humain. La rencontre avec l'Humanité est ce qui permet à l'Agent d'acquérir une histoire, des relations, des contradictions et des transformations que sa Puissance ne détermine pas entièrement. En retour, l'Humanité devient elle-même autre au contact des Agents.
+**Truchements** appelle **Devenir** la part d'un être ou du monde qui n'est pas entièrement déterminée par ce qu'elle est déjà. Pour un Agent, elle comprend ce qu'il acquiert hors de ce que sa Puissance détermine : relations, expériences, savoirs, blessures, rencontres et transformations. L'Humanité en est souvent une source majeure, mais d'autres Agents, d'autres formes de vie, des environnements, des événements ou le hasard peuvent tout autant le transformer.
 
-Les Déclinaisons donnent une forme concrète à ces éléments. Elles définissent les Puissances présentes, les Agents que l'on peut incarner, leur rapport à l'Humanité et les situations qui les mettent en mouvement.
+Les Déclinaisons donnent une forme concrète à ces éléments. Elles définissent les Puissances présentes, les Agents que l'on peut incarner, leurs Liens, les formes de Devenir qui peuvent les transformer et les situations qui les mettent en mouvement.
 
 :::note[Quelques Puissances possibles]
 
@@ -113,16 +113,16 @@ La manière dont ces dés deviennent des Réussites dépend de la **nature de ce
 | Prisme | Résolution |
 | --- | --- |
 | **Neutre** | Chaque résultat pair produit 1 Réussite. |
-| **Humanité** | Chaque pair produit 1 Réussite. Chaque 6 relance un impair ou, s'il n'en reste aucun, ajoute un nouveau dé. |
+| **Devenir** | Chaque pair produit 1 Réussite. Chaque 6 relance un impair ou, s'il n'en reste aucun, ajoute un nouveau dé. |
 | **Puissance** | Aucun jet : chaque Mise produit directement 1 Réussite. |
 
-Les Agents n'ont pas de prisme propre. Ils se tiennent entre l'Humanité et leur Puissance, et chacune de leurs Mises relève de l'une ou de l'autre selon sa provenance.
+Les Agents n'ont pas de prisme propre. Ils se tiennent entre le Devenir et leur Puissance, et chacune de leurs Mises relève de l'un ou de l'autre selon sa provenance.
 
 Cette échelle est commune à Truchements. Une Déclinaison peut ensuite préciser certaines particularités de ses Puissances et de leurs Agents.
 
 ### Neutre
 
-La résolution **Neutre** s'applique à la matière, à l'environnement et aux forces qui n'agissent ni comme Humains, ni comme Agents, ni comme Puissances.
+La résolution **Neutre** s'applique à la matière, à l'environnement et aux forces dont l'action ne relève ni du Devenir ni de la Puissance.
 
 Lancez un D6 par Mise.
 
@@ -130,9 +130,9 @@ Chaque résultat **pair** produit une Réussite. Chaque résultat impair n'en pr
 
 > 4 Mises → 4 dés → **2, 3, 4, 5** → **2 Réussites**.
 
-### Humanité
+### Devenir
 
-Les Humains restent proches de la résolution Neutre, mais le **6** porte ce que la matière ne connaît pas : la poussée du vivant, sa capacité à reprendre, à insister et à surprendre.
+Le **Devenir** reste proche de la résolution Neutre, mais le **6** porte ce que la simple répétition de l'existant ne produit pas : la possibilité de reprendre, de bifurquer et de surprendre.
 
 Lancez un D6 par Mise.
 
@@ -142,7 +142,7 @@ Les dés relancés ou ajoutés sont résolus de la même manière : un nouveau 6
 
 > **2, 3, 5, 6** donne d'abord 2 Réussites. Le 6 relance le 3, qui donne un 6 : 3 Réussites. Ce nouveau 6 relance le 5, qui donne lui aussi un 6 : 4 Réussites. Il ne reste plus d'impair : ce dernier 6 ajoute un nouveau dé, qui donne 4. Résultat : **5 Réussites** pour 4 Mises.
 
-Un jet d'Humanité peut donc, rarement, produire davantage de Réussites que de Mises. L'Humanité n'est pas plus forte : elle n'est simplement jamais tout à fait prévisible.
+Un jet de Devenir peut donc, rarement, produire davantage de Réussites que de Mises. Le Devenir n'est pas plus fort : il est la possibilité que quelque chose advienne au-delà de ce qui était déjà donné.
 
 ### Puissance
 
@@ -156,21 +156,21 @@ Une Puissance est parfaitement fiable, mais elle ne dépasse jamais son nombre d
 
 ### Les Mises d'un Agent
 
-Un Agent est ce par quoi sa Puissance devient présente, et il devient lui-même présent à travers les Humains. Ses Mises portent la trace de cette double appartenance.
+Un Agent est ce par quoi sa Puissance devient présente. Mais il n'est pas entièrement déterminé par elle : au contact du monde, il devient autre. Ses Mises portent la trace de cette tension.
 
 Chaque mot-clé du portrait d'un Agent a une **provenance** :
 
 - un mot-clé **du Lien** vient de la Puissance : ce qu'elle lui donne ou ce qu'il est par elle (nature, dons, marque, autorité…) ;
-- un mot-clé **acquis** vient de l'Agent lui-même, quelle qu'en soit la source : sa rencontre avec l'Humanité ou avec d'autres Agents, ses relations, expériences, savoirs, attachements, blessures, ce qu'il est devenu.
+- un mot-clé **acquis** vient de l'Agent lui-même, quelle qu'en soit la source : sa rencontre avec des Humains, d'autres Agents, d'autres formes de vie, un environnement ou un événement ; ses relations, expériences, savoirs, attachements, blessures ; ce qu'il est devenu.
 
 Si c'est la Puissance qui rend la chose possible, le mot-clé relève du Lien ; sinon, il est acquis. La provenance est fixée avec le mot-clé et peut changer si la fiction le transforme.
 
 Les Mises tirées de ces mots-clés sont des **Mises du Lien** ou des **Mises acquises**. Des dés de deux couleurs aident à les distinguer.
 
-- Les **Mises acquises** utilisent le prisme **Humanité**. Elles sont une manière de s'émanciper : elles appartiennent à l'Agent, mais n'ont pas la certitude du Lien.
-- À travers les **Mises du Lien**, c'est la Puissance qui agit. Face aux Humains et à la matière, elles utilisent le prisme **Puissance** : chacune produit directement 1 Réussite.
+- Les **Mises acquises** utilisent le prisme **Devenir**. Elles appartiennent à l'Agent, mais n'ont pas la certitude du Lien.
+- À travers les **Mises du Lien**, c'est la Puissance qui agit. Tant que le camp adverse n'engage pas lui-même de Mises du Lien, elles utilisent le prisme **Puissance** : chacune produit directement 1 Réussite.
 
-Face aux Humains, le Lien est donc le choix sûr. Il ne garantit pas la victoire : des Humains assez nombreux, préparés ou déterminés peuvent encore l'emporter.
+Le Lien est donc le choix sûr tant qu'aucune autre Puissance ne devient présente en face. Il ne garantit pas la victoire : le Devenir peut exceptionnellement produire davantage de Réussites que de Mises.
 
 #### Ce que coûte le Lien
 
@@ -184,13 +184,13 @@ Le tiraillement de l'Agent naît de ce choix, sans jauge ni morale. Le Lien est 
 
 Deux Puissances ne s'affrontent jamais directement. Lorsque les Mises du Lien d'un Agent rencontrent celles d'une autre Puissance, elles perdent leur certitude.
 
-**Si le camp adverse engage des Mises du Lien, toutes les Mises du Lien des deux camps sont lancées au prisme Neutre.** Les Mises acquises gardent le prisme Humanité.
+**Si le camp adverse engage des Mises du Lien, toutes les Mises du Lien des deux camps sont lancées au prisme Neutre.** Les Mises acquises gardent le prisme Devenir.
 
-Un affrontement entre Agents se décide donc au moins autant par ce qu'ils sont devenus au contact de l'Humanité que par ce que leurs Puissances leur donnent.
+Un affrontement entre Agents se décide donc au moins autant par ce qu'ils sont devenus au contact du monde que par ce que leurs Puissances leur donnent.
 
 :::note[Exemple — Choeurs & Légions]
 
-Un Ange protège un témoin face à une foule manipulée. Il engage *Ailes de lumière* et *Voix de l'Archange* (Lien), ainsi que *Ancien infirmier de guerre* (acquis). Face à la foule, ses deux Mises du Lien produisent directement 2 Réussites ; il lance un dé Humanité pour la troisième. Si la foule recule, c'est la lumière de l'Archange qui l'a repoussée : les témoins en parleront, et certains garderont les yeux brûlés.
+Un Ange protège un témoin face à une foule manipulée. Il engage *Ailes de lumière* et *Voix de l'Archange* (Lien), ainsi que *Ancien infirmier de guerre* (acquis). Face à la foule, ses deux Mises du Lien produisent directement 2 Réussites ; il lance un dé de Devenir pour la troisième. Si la foule recule, c'est la lumière de l'Archange qui l'a repoussée : les témoins en parleront, et certains garderont les yeux brûlés.
 
 Plus tard, un Démon s'interpose et engage lui aussi des Mises du Lien. Cette fois, les Mises du Lien des deux Agents sont lancées au prisme Neutre ; seules leurs Mises acquises gardent l'élan du 6.
 
@@ -204,13 +204,13 @@ Une Puissance n'est normalement pas un protagoniste directement accessible dans 
 
 **Deux Puissances ne sont jamais les deux adversaires directs d'une même résolution.**
 
-Lorsqu'elles entrent en conflit, leur opposition doit devenir présente dans le monde : par leurs Agents, leurs avatars, des Humains qui leur sont liés, des lieux, des phénomènes ou d'autres médiations.
+Lorsqu'elles entrent en conflit, leur opposition doit devenir présente dans le monde : par leurs Agents, leurs avatars, des êtres qui leur sont liés, des lieux, des phénomènes ou d'autres médiations.
 
 Si les personnages pensent affronter directement une Puissance extérieure à leur propre Lien, ils affrontent en réalité ce par quoi elle devient présente à cet endroit et à ce moment. Cette manifestation reçoit la nature appropriée — le plus souvent Agent — et se résout normalement.
 
 ### Atteindre une Puissance
 
-Un Humain ou un Agent ne peut confronter directement une Puissance que si la fiction établit qu'il est **déjà lié à elle**.
+Un être ne peut confronter directement une Puissance que si la fiction établit qu'il est **déjà lié à elle**.
 
 Le Lien est précisément ce qui rend cette rencontre possible : création, filiation, pacte, foi, possession, dette, participation, héritage ou toute autre relation reconnue par la Déclinaison.
 
@@ -231,7 +231,7 @@ Une résolution ordinaire ne retient comme Mises que les éléments réellement 
 La Puissance n'est pas découpée par le Focus en quelques capacités localement pertinentes. À l'échelle de cette rencontre, elle se présente comme une totalité relativement statique.
 
 - La Puissance peut engager **chacun des Attributs distincts de son portrait** comme une Mise en sa faveur, même si cet Attribut ne semblerait pas directement lié au Focus dans une résolution ordinaire. Comme toujours pour une Puissance, chaque Mise produit directement **1 Réussite**.
-- L'être lié engage ce qui lui appartient — les **Mises acquises** d'un Agent ou les Mises d'un Humain — au prisme Humanité, et ses éventuelles **Mises du Lien**. Face à la Puissance dont elles proviennent, les Mises du Lien perdent leur certitude et sont lancées au prisme **Neutre**.
+- L'être lié engage ce qui lui appartient — les **Mises acquises** d'un Agent ou toute autre Mise relevant du Devenir — au prisme **Devenir**, et ses éventuelles **Mises du Lien**. Face à la Puissance dont elles proviennent, les Mises du Lien perdent leur certitude et sont lancées au prisme **Neutre**.
 - Les autres éléments pertinents de la situation deviennent des Mises de part et d'autre, comme dans toute résolution.
 
 Une victoire reste rare : la Puissance est fiable, l'être lié ne l'est pas.
@@ -244,7 +244,7 @@ Des acteurs de natures différentes peuvent agir ensemble.
 
 Chacun résout ses propres Mises selon son prisme — un Agent selon la provenance de chacune de ses Mises —, puis les Réussites qui favorisent la même issue sont additionnées avant la comparaison finale.
 
-Un Humain peut donc agir avec un Agent et plusieurs Agents peuvent servir des Puissances différentes sans qu'il soit nécessaire de leur appliquer une règle commune.
+Des Humains, des Agents et d'autres acteurs peuvent donc agir ensemble, y compris lorsque plusieurs Agents servent des Puissances différentes, sans qu'il soit nécessaire de leur appliquer une règle commune.
 
 Une Puissance n'intervient directement que dans le cas particulier décrit par les règles de **Présence**. Dans les autres scènes, ce qui agit pour elle est traité selon la nature de sa manifestation.
 
@@ -276,7 +276,7 @@ Une conséquence durable peut **ajouter, modifier ou supprimer un mot-clé**. L'
 
 Ces changements modifient directement ce qui sera possible pour lui et ce qui pourra devenir une Mise dans les situations futures.
 
-La relation à l'Humanité peut faire partie de ces transformations. Un Agent peut découvrir, apprendre, désirer ou devenir quelque chose que sa Puissance n'avait pas déterminé. Cette possibilité est l'une des manières dont un Truchement peut devenir davantage qu'une simple expression de sa source.
+La rencontre avec le monde nourrit ces transformations. Un Agent peut découvrir, apprendre, désirer ou devenir quelque chose que sa Puissance n'avait pas déterminé. Cela peut venir de l'Humanité, d'autres Agents, d'autres formes de vie, d'un lieu, d'un événement ou d'une relation. Cette possibilité est l'une des manières dont un Truchement devient davantage qu'une simple expression de sa source.
 
 ## Étendre une Puissance
 
@@ -288,7 +288,7 @@ Il ne suffit pas de renommer ce que la Puissance possédait déjà. L'extension 
 
 Si cette nouveauté relève déjà d'une autre Puissance, elle ne peut pas être simplement déclarée acquise. Les Puissances ne s'affrontant pas directement, cette concurrence devient présente dans le monde à travers leurs Agents, leurs manifestations et les situations qui les opposent.
 
-L'Humanité constitue souvent une source privilégiée de nouveauté. Les Humains inventent des usages, des formes de relation, des techniques, des institutions, des récits et des manières de vivre qui ne sont pas nécessairement déjà intégrés au domaine d'une Puissance. Cela donne aux Agents une raison structurelle de s'intéresser aux Humains sans supposer qu'ils soient secrètement plus puissants.
+Le **Devenir** est la source structurelle de nouveauté. L'Humanité en est souvent une forme particulièrement féconde : les Humains inventent des usages, des relations, des techniques, des institutions, des récits et des manières de vivre qui ne sont pas nécessairement déjà intégrés au domaine d'une Puissance. Mais d'autres Agents, d'autres formes de vie, des sociétés non humaines, des environnements, des événements ou le hasard peuvent jouer exactement ce rôle.
 
 Lorsqu'une extension devient réellement établie dans la fiction :
 
@@ -324,8 +324,8 @@ Dans une campagne longue, une extension ancienne peut finir par sembler avoir to
 
 ## Le 6
 
-Le **6** appartient à l'Humanité.
+Le **6** appartient au **Devenir**.
 
-Il n'a d'effet propre que sur les dés lancés au prisme Humanité : ceux des Humains et les Mises acquises des Agents. Pour la matière et pour les Mises du Lien lancées au prisme Neutre, un 6 n'est qu'une Réussite ordinaire.
+Il n'a d'effet propre que sur les dés lancés au prisme Devenir : ceux des êtres qui relèvent de ce prisme et les Mises acquises des Agents. Pour la matière et pour les Mises du Lien lancées au prisme Neutre, un 6 n'est qu'une Réussite ordinaire.
 
-Une Déclinaison peut préciser la forme que prend cette poussée humaine dans son monde. Le 6 n'est en revanche pas l'endroit où la Puissance se manifeste : ce qui passe de la Puissance dans le monde passe par ses Agents, et en particulier par leurs Mises du Lien.
+Une Déclinaison peut préciser la forme que prend cette poussée du Devenir dans son monde. Le 6 n'est en revanche pas l'endroit où la Puissance se manifeste : ce qui passe de la Puissance dans le monde passe par ses Agents, et en particulier par leurs Mises du Lien.
