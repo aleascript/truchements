@@ -15,6 +15,8 @@ description: Un JdR sur les Puissances, leurs Agents et l'Humanité.
 
 :::
 
+> **Truchement** : ce par quoi quelque chose devient présent sans l'être directement.
+
 **Incarnez les Agents de Puissances qui dépassent l'Humanité.**
 
 **Truchements** est un jeu de rôle construit autour d'un petit socle commun de règles et de plusieurs déclinaisons prêtes à jouer.
